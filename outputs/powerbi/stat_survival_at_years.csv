@@ -1,0 +1,13 @@
+group,level,survival_5y_pct,survival_10y_pct,survival_15y_pct,group_key,level_key
+Glycemic status,normal,97,93.2,89.1,glycemic,glycemic|normal
+Glycemic status,prediabetes,94.4,86.8,77.8,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,89.9,77.7,65.3,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,86.5,71.6,56,glycemic,glycemic|diagnosed diabetes
+Hypertension,no hypertension,97.6,94.7,91.2,hypertension,hypertension|no hypertension
+Hypertension,hypertension,89.8,77.2,64.7,hypertension,hypertension|hypertension
+Chronic kidney disease,no CKD,97.1,93,88,ckd,ckd|no CKD
+Chronic kidney disease,CKD,82.6,64.4,50.7,ckd,ckd|CKD
+BMI category,normal,95,89.7,84.3,bmi,bmi|normal
+BMI category,underweight,91.6,83,76.1,bmi,bmi|underweight
+BMI category,overweight,95.5,89.3,82.8,bmi,bmi|overweight
+BMI category,obese,95.1,89,82.2,bmi,bmi|obese

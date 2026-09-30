@@ -1,0 +1,26 @@
+# Raw CDC files, about 260 MB (rebuilt by notebook 01). The manifest stays.
+data/raw/nhanes/
+data/raw/mortality/
+
+# R imputed data and model caches, about 65 MB (rebuilt by scripts 05 to 07)
+*.rds
+
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Power BI project and cache files (the .pbix is the shared version)
+*.pbip
+.pbi/
+*.abf
+
+# Office lock files and system files
+~$*
+desktop.ini
+Thumbs.db
+.DS_Store

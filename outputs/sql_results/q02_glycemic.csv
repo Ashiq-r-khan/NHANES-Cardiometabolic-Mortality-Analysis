@@ -1,0 +1,4 @@
+glycemic_status,participants,deaths,deaths_per_1000_py,mean_age
+normal,24885,2808,10.76,43.9
+prediabetes,15175,2555,19.42,54.9
+diabetes,8575,2520,37.73,61.6

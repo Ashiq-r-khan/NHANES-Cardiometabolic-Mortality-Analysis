@@ -1,0 +1,4 @@
+glycemic_status,deaths,pct_cvd,pct_cancer,pct_other,pct_unknown
+diabetes,2520,33.9,17.1,49.0,0.0
+prediabetes,2555,31.3,25.4,43.4,0.0
+normal,2808,30.0,22.3,47.7,0.0

@@ -1,0 +1,25 @@
+group,level,cause,pct,lcl,ucl,group_key,level_key
+Glycemic status,normal,CVD,26.9,25,28.8,glycemic,glycemic|normal
+Glycemic status,prediabetes,CVD,29.3,27.2,31.3,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,CVD,29.4,24.3,34.5,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,CVD,35.4,32.7,38,glycemic,glycemic|diagnosed diabetes
+Glycemic status,normal,Cancer,24.6,22.5,26.7,glycemic,glycemic|normal
+Glycemic status,prediabetes,Cancer,27.2,25.1,29.3,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,Cancer,21.2,17,25.3,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,Cancer,15.4,13.2,17.6,glycemic,glycemic|diagnosed diabetes
+Glycemic status,normal,Other causes,48.5,46.4,50.6,glycemic,glycemic|normal
+Glycemic status,prediabetes,Other causes,43.5,41,46.1,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,Other causes,49.5,44,54.9,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,Other causes,49.2,46.6,51.9,glycemic,glycemic|diagnosed diabetes
+Hypertension,no hypertension,CVD,22.9,21,24.8,hypertension,hypertension|no hypertension
+Hypertension,hypertension,CVD,33.4,31.6,35.1,hypertension,hypertension|hypertension
+Hypertension,no hypertension,Cancer,29,26.8,31.2,hypertension,hypertension|no hypertension
+Hypertension,hypertension,Cancer,20.1,18.6,21.6,hypertension,hypertension|hypertension
+Hypertension,no hypertension,Other causes,48.1,45.7,50.6,hypertension,hypertension|no hypertension
+Hypertension,hypertension,Other causes,46.6,44.9,48.2,hypertension,hypertension|hypertension
+Chronic kidney disease,no CKD,CVD,25.4,23.7,27,ckd,ckd|no CKD
+Chronic kidney disease,CKD,CVD,36.1,34,38.3,ckd,ckd|CKD
+Chronic kidney disease,no CKD,Cancer,27.5,25.7,29.3,ckd,ckd|no CKD
+Chronic kidney disease,CKD,Cancer,16.8,15.3,18.3,ckd,ckd|CKD
+Chronic kidney disease,no CKD,Other causes,47.2,45.3,49,ckd,ckd|no CKD
+Chronic kidney disease,CKD,Other causes,47.1,45,49.2,ckd,ckd|CKD

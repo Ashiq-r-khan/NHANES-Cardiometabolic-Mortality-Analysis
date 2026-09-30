@@ -1,0 +1,34 @@
+condition,estimate,prevalence_pct,lcl,ucl,n_available
+diabetes,Crude (MI),12.4,12,12.8,
+dm_dx,Crude (MI),9.5,9.1,9.8,
+dm_undiagnosed,Crude (MI),2.9,2.7,3.1,
+prediabetes,Crude (MI),28.7,28,29.4,
+hypertension,Crude (MI),31.9,31.1,32.7,
+hypertension_acc,Crude (MI),47.2,46.4,48,
+obesity,Crude (MI),35.4,34.6,36.2,
+ckd,Crude (MI),13.6,13.1,14.1,
+albuminuria,Crude (MI),10,9.6,10.4,
+current_smoker,Crude (MI),21.7,21,22.4,
+cvd_history,Crude (MI),8.9,8.5,9.3,
+diabetes,Age-standardized (MI),11.8,11.4,12.2,
+dm_dx,Age-standardized (MI),9,8.7,9.4,
+dm_undiagnosed,Age-standardized (MI),2.8,2.6,3,
+prediabetes,Age-standardized (MI),28.2,27.5,28.8,
+hypertension,Age-standardized (MI),30.5,29.8,31.1,
+hypertension_acc,Age-standardized (MI),45.7,45,46.5,
+obesity,Age-standardized (MI),35.2,34.4,36.1,
+ckd,Age-standardized (MI),13,12.6,13.4,
+albuminuria,Age-standardized (MI),9.7,9.3,10.1,
+current_smoker,Age-standardized (MI),22.1,21.3,22.8,
+cvd_history,Age-standardized (MI),8.3,8,8.7,
+diabetes,Crude (available cases),12.8,12.3,13.2,48583
+dm_dx,Crude (available cases),9.5,9.1,9.8,50785
+dm_undiagnosed,Crude (available cases),2.9,2.7,3.1,48577
+prediabetes,Crude (available cases),29,28.3,29.8,48653
+hypertension,Crude (available cases),32.5,31.7,33.3,49109
+hypertension_acc,Crude (available cases),47.5,46.7,48.3,49109
+obesity,Crude (available cases),35.4,34.6,36.2,49782
+ckd,Crude (available cases),13.5,13.1,14,50228
+albuminuria,Crude (available cases),9.8,9.4,10.2,49456
+current_smoker,Crude (available cases),21.7,21,22.4,50768
+cvd_history,Crude (available cases),8.9,8.5,9.3,50811

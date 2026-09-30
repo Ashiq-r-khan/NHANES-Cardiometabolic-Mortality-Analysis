@@ -1,0 +1,5 @@
+glycemic_status,pct_with_diabetes_on_certificate,lcl,ucl
+normal,1.6,1.1,2.2
+prediabetes,4.9,3.9,6
+undiagnosed diabetes,16.3,12.3,20.2
+diagnosed diabetes,34.5,31.6,37.5

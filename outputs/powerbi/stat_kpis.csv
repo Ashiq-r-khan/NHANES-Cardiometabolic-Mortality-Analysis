@@ -1,0 +1,11 @@
+kpi_sort,metric,value
+1,Participants,50819
+2,Deaths,8279
+3,Person-years,479971
+4,Median follow-up (years),9
+5,US adults represented (millions),213.7
+6,"Diabetes prevalence, age-standardized (%)",11.8
+7,Undiagnosed share of diabetes (%),23.4
+8,"Diabetes HR, fully adjusted",1.44
+9,Deaths attributable to CKD (%),14.69
+10,Model C C-index (temporal validation),0.872

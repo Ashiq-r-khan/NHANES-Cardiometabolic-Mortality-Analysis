@@ -1,0 +1,41 @@
+glycemic_status,underlying_cause,pct,level_key
+normal,Heart disease,21.8,glycemic|normal
+prediabetes,Heart disease,24.9,glycemic|prediabetes
+undiagnosed diabetes,Heart disease,22.9,glycemic|undiagnosed diabetes
+diagnosed diabetes,Heart disease,29.9,glycemic|diagnosed diabetes
+normal,Cancer,24.6,glycemic|normal
+prediabetes,Cancer,27.2,glycemic|prediabetes
+undiagnosed diabetes,Cancer,21.2,glycemic|undiagnosed diabetes
+diagnosed diabetes,Cancer,15.4,glycemic|diagnosed diabetes
+normal,Chronic lower respiratory disease,6.9,glycemic|normal
+prediabetes,Chronic lower respiratory disease,6.6,glycemic|prediabetes
+undiagnosed diabetes,Chronic lower respiratory disease,4.4,glycemic|undiagnosed diabetes
+diagnosed diabetes,Chronic lower respiratory disease,4.5,glycemic|diagnosed diabetes
+normal,Accidents,5.2,glycemic|normal
+prediabetes,Accidents,3.5,glycemic|prediabetes
+undiagnosed diabetes,Accidents,3.5,glycemic|undiagnosed diabetes
+diagnosed diabetes,Accidents,1.8,glycemic|diagnosed diabetes
+normal,Stroke,5.1,glycemic|normal
+prediabetes,Stroke,4.4,glycemic|prediabetes
+undiagnosed diabetes,Stroke,6.4,glycemic|undiagnosed diabetes
+diagnosed diabetes,Stroke,5.5,glycemic|diagnosed diabetes
+normal,Alzheimer disease,4.7,glycemic|normal
+prediabetes,Alzheimer disease,3.4,glycemic|prediabetes
+undiagnosed diabetes,Alzheimer disease,4.5,glycemic|undiagnosed diabetes
+diagnosed diabetes,Alzheimer disease,1.8,glycemic|diagnosed diabetes
+normal,Diabetes,0.4,glycemic|normal
+prediabetes,Diabetes,1.2,glycemic|prediabetes
+undiagnosed diabetes,Diabetes,2.9,glycemic|undiagnosed diabetes
+diagnosed diabetes,Diabetes,12.6,glycemic|diagnosed diabetes
+normal,Influenza and pneumonia,1.8,glycemic|normal
+prediabetes,Influenza and pneumonia,1.7,glycemic|prediabetes
+undiagnosed diabetes,Influenza and pneumonia,1.2,glycemic|undiagnosed diabetes
+diagnosed diabetes,Influenza and pneumonia,2.4,glycemic|diagnosed diabetes
+normal,Kidney disease,1.6,glycemic|normal
+prediabetes,Kidney disease,1.1,glycemic|prediabetes
+undiagnosed diabetes,Kidney disease,2.9,glycemic|undiagnosed diabetes
+diagnosed diabetes,Kidney disease,4.1,glycemic|diagnosed diabetes
+normal,All other causes,27.9,glycemic|normal
+prediabetes,All other causes,26,glycemic|prediabetes
+undiagnosed diabetes,All other causes,30,glycemic|undiagnosed diabetes
+diagnosed diabetes,All other causes,22.1,glycemic|diagnosed diabetes

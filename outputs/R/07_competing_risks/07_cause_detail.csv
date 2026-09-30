@@ -1,0 +1,41 @@
+glycemic_status,cause,pct
+normal,Heart disease,21.8
+prediabetes,Heart disease,24.9
+undiagnosed diabetes,Heart disease,22.9
+diagnosed diabetes,Heart disease,29.9
+normal,Cancer,24.6
+prediabetes,Cancer,27.2
+undiagnosed diabetes,Cancer,21.2
+diagnosed diabetes,Cancer,15.4
+normal,Chronic lower respiratory disease,6.9
+prediabetes,Chronic lower respiratory disease,6.6
+undiagnosed diabetes,Chronic lower respiratory disease,4.4
+diagnosed diabetes,Chronic lower respiratory disease,4.5
+normal,Accidents,5.2
+prediabetes,Accidents,3.5
+undiagnosed diabetes,Accidents,3.5
+diagnosed diabetes,Accidents,1.8
+normal,Stroke,5.1
+prediabetes,Stroke,4.4
+undiagnosed diabetes,Stroke,6.4
+diagnosed diabetes,Stroke,5.5
+normal,Alzheimer disease,4.7
+prediabetes,Alzheimer disease,3.4
+undiagnosed diabetes,Alzheimer disease,4.5
+diagnosed diabetes,Alzheimer disease,1.8
+normal,Diabetes,0.4
+prediabetes,Diabetes,1.2
+undiagnosed diabetes,Diabetes,2.9
+diagnosed diabetes,Diabetes,12.6
+normal,Influenza and pneumonia,1.8
+prediabetes,Influenza and pneumonia,1.7
+undiagnosed diabetes,Influenza and pneumonia,1.2
+diagnosed diabetes,Influenza and pneumonia,2.4
+normal,Kidney disease,1.6
+prediabetes,Kidney disease,1.1
+undiagnosed diabetes,Kidney disease,2.9
+diagnosed diabetes,Kidney disease,4.1
+normal,All other causes,27.9
+prediabetes,All other causes,26
+undiagnosed diabetes,All other causes,30
+diagnosed diabetes,All other causes,22.1

@@ -1,0 +1,12 @@
+condition,condition_label,domain,condition_sort
+diabetes,Diabetes (total),Glycemic,1
+dm_dx,Diagnosed diabetes,Glycemic,2
+dm_undiagnosed,Undiagnosed diabetes,Glycemic,3
+prediabetes,Prediabetes,Glycemic,4
+hypertension,Hypertension (140/90 or meds),Blood pressure,5
+hypertension_acc,Hypertension (130/80 or meds),Blood pressure,6
+obesity,Obesity (BMI 30+),Other risk factors,7
+ckd,Chronic kidney disease,Kidney,8
+albuminuria,Albuminuria (ACR 30+),Kidney,9
+current_smoker,Current smoking,Other risk factors,10
+cvd_history,Self-reported CVD,Other risk factors,11

@@ -1,0 +1,25 @@
+group,level,cause,aalen_johansen_pct,naive_1_minus_km_pct,overestimate_pct,group_key,level_key
+Glycemic status,normal,CVD,2.8,3,4.1,glycemic,glycemic|normal
+Glycemic status,normal,Cancer,2.7,2.8,4.2,glycemic,glycemic|normal
+Glycemic status,normal,Other causes,5.4,5.5,3,glycemic,glycemic|normal
+Glycemic status,prediabetes,CVD,6.4,6.9,8.9,glycemic,glycemic|prediabetes
+Glycemic status,prediabetes,Cancer,5.9,6.4,8.7,glycemic,glycemic|prediabetes
+Glycemic status,prediabetes,Other causes,9.9,10.6,7.4,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,CVD,10.2,11.9,16.7,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,undiagnosed diabetes,Cancer,7.3,8.3,14.4,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,undiagnosed diabetes,Other causes,17.2,19.1,11,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,CVD,16,19,19.3,glycemic,glycemic|diagnosed diabetes
+Glycemic status,diagnosed diabetes,Cancer,6.2,7.5,21.4,glycemic,glycemic|diagnosed diabetes
+Glycemic status,diagnosed diabetes,Other causes,21.9,25.2,15.2,glycemic,glycemic|diagnosed diabetes
+Hypertension,no hypertension,CVD,2,2.1,3.8,hypertension,hypertension|no hypertension
+Hypertension,no hypertension,Cancer,2.5,2.6,3.1,hypertension,hypertension|no hypertension
+Hypertension,no hypertension,Other causes,4.2,4.3,2.4,hypertension,hypertension|no hypertension
+Hypertension,hypertension,CVD,11.6,13.2,14.3,hypertension,hypertension|hypertension
+Hypertension,hypertension,Cancer,7,8.1,16.5,hypertension,hypertension|hypertension
+Hypertension,hypertension,Other causes,16.8,18.9,12.3,hypertension,hypertension|hypertension
+Chronic kidney disease,no CKD,CVD,3,3.2,5,ckd,ckd|no CKD
+Chronic kidney disease,no CKD,Cancer,3.2,3.4,4.2,ckd,ckd|no CKD
+Chronic kidney disease,no CKD,Other causes,5.8,6,3.5,ckd,ckd|no CKD
+Chronic kidney disease,CKD,CVD,17.6,21.4,21.4,ckd,ckd|CKD
+Chronic kidney disease,CKD,Cancer,8.1,10.5,28.5,ckd,ckd|CKD
+Chronic kidney disease,CKD,Other causes,23.6,27.9,18.6,ckd,ckd|CKD

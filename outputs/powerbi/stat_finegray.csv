@@ -1,0 +1,33 @@
+cause,term,hr,lcl,ucl,hr_type
+CVD,Current smoking,1.87,1.63,2.15,Cause-specific
+CVD,Prediabetes,0.97,0.86,1.1,Cause-specific
+CVD,Diabetes,1.5,1.33,1.69,Cause-specific
+CVD,Hypertension,1.46,1.28,1.68,Cause-specific
+CVD,CKD,1.85,1.65,2.08,Cause-specific
+CVD,Underweight,1.41,0.85,2.35,Cause-specific
+CVD,Overweight,0.88,0.77,1.02,Cause-specific
+CVD,Obese,1.09,0.95,1.25,Cause-specific
+Cancer,Current smoking,2.98,2.53,3.51,Cause-specific
+Cancer,Prediabetes,1.1,0.96,1.26,Cause-specific
+Cancer,Diabetes,1.03,0.86,1.23,Cause-specific
+Cancer,Hypertension,0.98,0.85,1.12,Cause-specific
+Cancer,CKD,1.27,1.11,1.45,Cause-specific
+Cancer,Underweight,1.83,1.11,3.01,Cause-specific
+Cancer,Overweight,0.97,0.82,1.15,Cause-specific
+Cancer,Obese,1.07,0.91,1.26,Cause-specific
+CVD,Current smoking,1.57,1.37,1.8,Fine-Gray
+CVD,Prediabetes,0.99,0.88,1.12,Fine-Gray
+CVD,Diabetes,1.38,1.21,1.57,Fine-Gray
+CVD,Hypertension,1.46,1.27,1.67,Fine-Gray
+CVD,CKD,1.64,1.45,1.85,Fine-Gray
+CVD,Underweight,1.2,0.75,1.92,Fine-Gray
+CVD,Overweight,0.95,0.82,1.09,Fine-Gray
+CVD,Obese,1.15,1,1.31,Fine-Gray
+Cancer,Current smoking,2.73,2.32,3.2,Fine-Gray
+Cancer,Prediabetes,1.12,0.98,1.28,Fine-Gray
+Cancer,Diabetes,0.96,0.8,1.14,Fine-Gray
+Cancer,Hypertension,0.97,0.85,1.11,Fine-Gray
+Cancer,CKD,1.1,0.95,1.26,Fine-Gray
+Cancer,Underweight,1.64,1.02,2.66,Fine-Gray
+Cancer,Overweight,1.03,0.86,1.22,Fine-Gray
+Cancer,Obese,1.13,0.96,1.33,Fine-Gray

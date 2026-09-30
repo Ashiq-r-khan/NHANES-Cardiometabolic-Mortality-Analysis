@@ -1,0 +1,31 @@
+group,level,type,rate_per_1000_py,lcl,ucl,group_key,level_key
+Glycemic status,normal,Crude,7.6,7.1,8,glycemic,glycemic|normal
+Glycemic status,prediabetes,Crude,15.1,14.2,16,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,Crude,27.1,24.2,30.1,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,Crude,34.6,32.6,36.7,glycemic,glycemic|diagnosed diabetes
+Glycemic status,normal,Age-standardized,11.6,10.9,12.2,glycemic,glycemic|normal
+Glycemic status,prediabetes,Age-standardized,12.1,11.4,12.9,glycemic,glycemic|prediabetes
+Glycemic status,undiagnosed diabetes,Age-standardized,18.2,16.2,20.2,glycemic,glycemic|undiagnosed diabetes
+Glycemic status,diagnosed diabetes,Age-standardized,23,21,25.1,glycemic,glycemic|diagnosed diabetes
+Hypertension,no hypertension,Crude,6,5.7,6.3,hypertension,hypertension|no hypertension
+Hypertension,hypertension,Crude,27,25.9,28.1,hypertension,hypertension|hypertension
+Hypertension,no hypertension,Age-standardized,10,9.4,10.5,hypertension,hypertension|no hypertension
+Hypertension,hypertension,Age-standardized,16.8,16,17.6,hypertension,hypertension|hypertension
+Chronic kidney disease,no CKD,Crude,8.2,7.8,8.5,ckd,ckd|no CKD
+Chronic kidney disease,CKD,Crude,42.6,40.7,44.6,ckd,ckd|CKD
+Chronic kidney disease,no CKD,Age-standardized,9.8,9.4,10.3,ckd,ckd|no CKD
+Chronic kidney disease,CKD,Age-standardized,25.9,24.6,27.1,ckd,ckd|CKD
+BMI category,normal,Crude,11.2,10.5,11.9,bmi,bmi|normal
+BMI category,underweight,Crude,17.5,14,21,bmi,bmi|underweight
+BMI category,overweight,Crude,11.9,11.2,12.6,bmi,bmi|overweight
+BMI category,obese,Crude,12.5,11.9,13.2,bmi,bmi|obese
+BMI category,normal,Age-standardized,14.5,13.6,15.3,bmi,bmi|normal
+BMI category,underweight,Age-standardized,27.6,22.2,32.9,bmi,bmi|underweight
+BMI category,overweight,Age-standardized,11.9,11.2,12.5,bmi,bmi|overweight
+BMI category,obese,Age-standardized,12.6,12,13.3,bmi,bmi|obese
+Smoking,never,Crude,8.9,8.4,9.4,smoking,smoking|never
+Smoking,former,Crude,18.8,17.6,20,smoking,smoking|former
+Smoking,current,Crude,12.2,11.4,12.9,smoking,smoking|current
+Smoking,never,Age-standardized,10.4,9.8,10.9,smoking,smoking|never
+Smoking,former,Age-standardized,13.6,12.8,14.4,smoking,smoking|former
+Smoking,current,Age-standardized,18.6,17.6,19.7,smoking,smoking|current

@@ -1,0 +1,4 @@
+sample,cycles,n,deaths,deaths_within_10y,min_followup_y
+development,1999-2000 to 2005-2006,17869,5021,2959,12.8
+later cycles,2011-2012 to 2017-2018,21329,1398,1398,0.9
+validation,2007-2008 to 2009-2010,11621,1860,1652,8.8

@@ -1,0 +1,7 @@
+exposure,hr,lcl,ucl,hr_type
+Diabetes,1.83,1.58,2.13,IPW marginal
+Hypertension,1.17,1.07,1.28,IPW marginal
+Chronic kidney disease,1.59,1.47,1.72,IPW marginal
+Diabetes,1.44,1.34,1.55,Conditional (M3)
+Hypertension,1.22,1.14,1.31,Conditional (M3)
+Chronic kidney disease,1.59,1.5,1.68,Conditional (M3)

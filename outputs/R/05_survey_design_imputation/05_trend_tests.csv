@@ -1,0 +1,12 @@
+label,condition,or_per_cycle,lcl,ucl,p_trend
+Diabetes (total),diabetes,1.056,1.041,1.071,<0.001
+Diagnosed diabetes,dm_dx,1.064,1.048,1.081,<0.001
+Undiagnosed diabetes,dm_undiagnosed,1.017,0.994,1.04,0.153
+Prediabetes,prediabetes,1.089,1.074,1.104,<0.001
+Hypertension (140/90 or meds),hypertension,1.005,0.988,1.021,0.575
+Hypertension (130/80 or meds),hypertension_acc,0.984,0.97,0.998,0.030
+Obesity (BMI 30+),obesity,1.062,1.047,1.078,<0.001
+Chronic kidney disease,ckd,0.987,0.974,1,0.050
+Albuminuria (ACR 30+),albuminuria,0.987,0.973,1.001,0.076
+Current smoking,current_smoker,0.954,0.939,0.969,<0.001
+Self-reported CVD,cvd_history,0.981,0.965,0.998,0.031

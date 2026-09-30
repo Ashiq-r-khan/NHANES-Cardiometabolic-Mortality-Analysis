@@ -1,0 +1,28 @@
+exposure,level,model,hr,lcl,ucl,p
+Glycemic status,prediabetes,"M1: age, sex",1.06,0.98,1.13,0.126
+Glycemic status,diabetes,"M1: age, sex",1.81,1.7,1.93,<0.001
+Glycemic status,prediabetes,"M2: + sociodemographics, smoking, cycle",1.02,0.95,1.1,0.635
+Glycemic status,diabetes,"M2: + sociodemographics, smoking, cycle",1.7,1.59,1.83,<0.001
+Glycemic status,prediabetes,M3: + all conditions,0.99,0.92,1.06,0.732
+Glycemic status,diabetes,M3: + all conditions,1.44,1.34,1.55,<0.001
+Glycemic status (diagnosis),prediabetes,"M1: age, sex",1.06,0.99,1.13,0.123
+Glycemic status (diagnosis),undiagnosed diabetes,"M1: age, sex",1.52,1.35,1.7,<0.001
+Glycemic status (diagnosis),diagnosed diabetes,"M1: age, sex",1.91,1.78,2.05,<0.001
+Glycemic status (diagnosis),prediabetes,"M2: + sociodemographics, smoking, cycle",1.02,0.95,1.1,0.622
+Glycemic status (diagnosis),undiagnosed diabetes,"M2: + sociodemographics, smoking, cycle",1.43,1.26,1.61,<0.001
+Glycemic status (diagnosis),diagnosed diabetes,"M2: + sociodemographics, smoking, cycle",1.8,1.67,1.94,<0.001
+Hypertension,yes,"M1: age, sex",1.41,1.32,1.51,<0.001
+Hypertension,yes,"M2: + sociodemographics, smoking, cycle",1.38,1.29,1.47,<0.001
+Hypertension,yes,M3: + all conditions,1.22,1.14,1.31,<0.001
+Chronic kidney disease,yes,"M1: age, sex",1.96,1.85,2.07,<0.001
+Chronic kidney disease,yes,"M2: + sociodemographics, smoking, cycle",1.83,1.73,1.93,<0.001
+Chronic kidney disease,yes,M3: + all conditions,1.59,1.5,1.68,<0.001
+BMI category,underweight,"M1: age, sex",2.1,1.7,2.61,<0.001
+BMI category,overweight,"M1: age, sex",0.84,0.78,0.91,<0.001
+BMI category,obese,"M1: age, sex",1.1,1.03,1.17,0.005
+BMI category,underweight,"M2: + sociodemographics, smoking, cycle",1.61,1.31,1.99,<0.001
+BMI category,overweight,"M2: + sociodemographics, smoking, cycle",0.88,0.82,0.94,<0.001
+BMI category,obese,"M2: + sociodemographics, smoking, cycle",1.12,1.05,1.2,<0.001
+BMI category,underweight,M3: + all conditions,1.57,1.2,2.06,<0.001
+BMI category,overweight,M3: + all conditions,0.83,0.78,0.89,<0.001
+BMI category,obese,M3: + all conditions,0.93,0.87,1,0.046

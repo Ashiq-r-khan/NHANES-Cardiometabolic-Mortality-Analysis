@@ -1,0 +1,6 @@
+model,model_description,model_type,model_sort
+A: Basic,"Age, sex, race/ethnicity, smoking",Model,1
+B: Conditions,"Basic + glycemic status, hypertension, CKD, BMI group, prior CVD, cancer",Model,2
+C: Full,"Basic + education, income, biomarker splines (BMI, SBP, HbA1c, eGFR, ACR, HDL), cholesterol, treatment, prior CVD, cancer",Model,3
+Treat all,Reference: flag everyone,Reference,4
+Treat none,Reference: flag no one,Reference,5

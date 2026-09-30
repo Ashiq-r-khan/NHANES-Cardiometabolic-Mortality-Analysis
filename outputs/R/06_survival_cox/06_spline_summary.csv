@@ -1,0 +1,7 @@
+measure,x_lowest_risk,hr_at_p1,hr_at_p99
+BMI (kg/m2),26.5,1.75,2.27
+HDL cholesterol (mg/dL),59.2,1.56,1.37
+HbA1c (%),5.3,1.56,2.57
+Systolic BP (mmHg),116.6,1.47,1.51
+Urine ACR (mg/g),1.6,0.71,3.3
+eGFR (mL/min/1.73m2),83.9,2.31,1.42

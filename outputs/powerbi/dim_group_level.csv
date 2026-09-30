@@ -1,0 +1,29 @@
+level_key,group_key,group_label,level,level_label,group_sort,level_sort
+glycemic|normal,glycemic,Glycemic status,normal,Normal glucose,1,1
+glycemic|prediabetes,glycemic,Glycemic status,prediabetes,Prediabetes,1,2
+glycemic|undiagnosed diabetes,glycemic,Glycemic status,undiagnosed diabetes,Undiagnosed diabetes,1,3
+glycemic|diagnosed diabetes,glycemic,Glycemic status,diagnosed diabetes,Diagnosed diabetes,1,4
+hypertension|no hypertension,hypertension,Hypertension,no hypertension,No hypertension,2,5
+hypertension|hypertension,hypertension,Hypertension,hypertension,Hypertension,2,6
+ckd|no CKD,ckd,Chronic kidney disease,no CKD,No CKD,3,7
+ckd|CKD,ckd,Chronic kidney disease,CKD,CKD,3,8
+bmi|underweight,bmi,BMI category,underweight,Underweight (<18.5),4,9
+bmi|normal,bmi,BMI category,normal,Normal (18.5-24.9),4,10
+bmi|overweight,bmi,BMI category,overweight,Overweight (25-29.9),4,11
+bmi|obese,bmi,BMI category,obese,Obese (30+),4,12
+smoking|never,smoking,Smoking,never,Never smoker,5,13
+smoking|former,smoking,Smoking,former,Former smoker,5,14
+smoking|current,smoking,Smoking,current,Current smoker,5,15
+age|20-39,age,Age group,20-39,20-39 years,6,16
+age|40-59,age,Age group,40-59,40-59 years,6,17
+age|60+,age,Age group,60+,60+ years,6,18
+sex|male,sex,Sex,male,Male,7,19
+sex|female,sex,Sex,female,Female,7,20
+race|Non-Hispanic White,race,Race/ethnicity,Non-Hispanic White,Non-Hispanic White,8,21
+race|Non-Hispanic Black,race,Race/ethnicity,Non-Hispanic Black,Non-Hispanic Black,8,22
+race|Mexican American,race,Race/ethnicity,Mexican American,Mexican American,8,23
+race|Other Hispanic,race,Race/ethnicity,Other Hispanic,Other Hispanic,8,24
+race|Other/Multiracial,race,Race/ethnicity,Other/Multiracial,Other/Multiracial,8,25
+education|<HS,education,Education,<HS,Less than high school,9,26
+education|HS/GED,education,Education,HS/GED,High school/GED,9,27
+education|>HS,education,Education,>HS,More than high school,9,28

@@ -1,0 +1,16 @@
+variable,n_missing,pct_missing
+pir,4592,9.04
+egfr,3248,6.39
+hdl,3122,6.14
+tc,3120,6.14
+waist,2935,5.78
+dbp,2570,5.06
+hba1c,2536,4.99
+sbp,2334,4.59
+log_acr,1363,2.68
+bmi,1037,2.04
+education,81,0.16
+smoking,51,0.1
+cancer,50,0.1
+dm_told,34,0.07
+cvd_history,8,0.02

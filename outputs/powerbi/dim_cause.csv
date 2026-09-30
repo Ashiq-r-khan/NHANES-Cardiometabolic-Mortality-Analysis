@@ -1,0 +1,5 @@
+cause,cause_description,cause_sort
+All causes,Any cause of death,0
+CVD,"Heart disease and stroke (NCHS codes 1, 5)",1
+Cancer,Malignant neoplasms (code 2),2
+Other causes,All other underlying causes,3

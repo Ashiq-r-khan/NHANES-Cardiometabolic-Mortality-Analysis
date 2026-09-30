@@ -1,0 +1,25 @@
+group,level,cause,rate_per_1000_py,lcl,ucl
+Glycemic status,normal,CVD,3.29,2.98,3.6
+Glycemic status,prediabetes,CVD,3.47,3.13,3.82
+Glycemic status,undiagnosed diabetes,CVD,5.26,4.15,6.37
+Glycemic status,diagnosed diabetes,CVD,8.19,6.68,9.7
+Glycemic status,normal,Cancer,2.72,2.45,2.99
+Glycemic status,prediabetes,Cancer,3.3,2.97,3.64
+Glycemic status,undiagnosed diabetes,Cancer,3.92,2.96,4.87
+Glycemic status,diagnosed diabetes,Cancer,3.16,2.62,3.69
+Glycemic status,normal,Other causes,5.55,5.2,5.9
+Glycemic status,prediabetes,Other causes,5.37,4.91,5.83
+Glycemic status,undiagnosed diabetes,Other causes,9.01,7.55,10.47
+Glycemic status,diagnosed diabetes,Other causes,11.69,10.39,13
+Hypertension,no hypertension,CVD,2.52,2.25,2.79
+Hypertension,hypertension,CVD,5.52,5.06,5.98
+Hypertension,no hypertension,Cancer,2.79,2.51,3.06
+Hypertension,hypertension,Cancer,3.42,3.1,3.75
+Hypertension,no hypertension,Other causes,4.67,4.36,4.98
+Hypertension,hypertension,Other causes,7.84,7.36,8.32
+Chronic kidney disease,no CKD,CVD,2.57,2.35,2.8
+Chronic kidney disease,CKD,CVD,9.11,8.31,9.92
+Chronic kidney disease,no CKD,Cancer,2.63,2.43,2.84
+Chronic kidney disease,CKD,Cancer,4.33,3.77,4.88
+Chronic kidney disease,no CKD,Other causes,4.62,4.38,4.86
+Chronic kidney disease,CKD,Other causes,12.42,11.49,13.35

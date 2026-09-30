@@ -1,0 +1,2173 @@
+level,time,surv,group,group_key,level_key
+diagnosed diabetes,0,0.999858830663936,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.1,0.9993115932830852,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.2,0.9962756676345262,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.30000000000000004,0.9954451133501302,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.4,0.993388327677986,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.5,0.9904002344496312,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.6000000000000001,0.9869967566977536,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.7000000000000001,0.9853994897157232,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.8,0.9833556610322378,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,0.9,0.9828119094116488,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1,0.9778265333620648,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.1,0.9764123698284236,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.2000000000000002,0.974682618801142,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.3,0.9734465514331256,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.4,0.9717494284809054,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.5,0.9682449782022148,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.6,0.9657528797583862,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.7000000000000002,0.963971314598361,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.8,0.9624104530853588,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,1.9,0.9608390201315816,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2,0.9564769036196556,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.1,0.9537941571099302,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.2,0.9503884244304874,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.3000000000000003,0.9473997996024957,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.4000000000000004,0.945896211842771,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.5,0.9406403729841288,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.6,0.9385984807830268,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.7,0.9359565769457432,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.8000000000000003,0.932759867852076,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,2.9000000000000004,0.9296710810948328,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3,0.925747623793144,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.1,0.9238454162431612,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.2,0.9209119555844468,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.3000000000000003,0.919463534121414,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.4000000000000004,0.9161717527777856,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.5,0.9104873776484712,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.6,0.908978133852128,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.7,0.9064530795065808,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.8,0.904610574364765,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,3.9,0.9021132617032837,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4,0.8963531215269571,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.1000000000000005,0.894628773387306,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.2,0.8931641123896118,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.3,0.8891101541747323,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.4,0.8873209258081,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.5,0.88121008794202,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.6000000000000005,0.8792346677153717,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.7,0.8773478453903074,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.800000000000001,0.8763203556570366,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,4.9,0.8714911936006657,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5,0.8651411794949749,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.1000000000000005,0.8610501365514868,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.2,0.8578932512511662,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.300000000000001,0.8557245299710755,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.4,0.85378313399568,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.5,0.8486578537630424,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.6000000000000005,0.8467588306918937,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.7,0.8434513038954783,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.800000000000001,0.8406144878163286,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,5.9,0.8387729198694717,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6,0.8318981170362784,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.1000000000000005,0.8304252828740621,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.2,0.8263154993669044,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.300000000000001,0.8241101102247994,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.4,0.8212881472911527,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.5,0.8163225529875585,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.6000000000000005,0.8136115895588526,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.7,0.8110540117925209,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.800000000000001,0.8081203464752585,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,6.9,0.8061331862597048,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7,0.799663356835555,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.1000000000000005,0.7991330159611086,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.2,0.7982534361459654,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.300000000000001,0.7957652214118901,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.4,0.7922972244131422,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.5,0.788125452853788,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.6,0.7855049041710862,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.7,0.7823373666389798,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.800000000000001,0.7790740292667502,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,7.9,0.7772756709587393,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8,0.7725463133156079,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.1,0.770055395800959,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.200000000000001,0.7674764864815568,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.3,0.7647145501350721,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.4,0.7621561318611799,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.5,0.7561129304653205,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.6,0.7527869423395601,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.700000000000001,0.7498564732889607,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.8,0.7459176298020441,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,8.9,0.7448272659985052,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9,0.7410409573769847,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.1,0.7377729766229433,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.2,0.7356806674005512,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.3,0.7342481657943204,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.4,0.7333628742845735,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.5,0.7278289611426796,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.6,0.725369194977963,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.7,0.7237897952486204,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.8,0.7212690005314819,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,9.9,0.7186891496535773,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10,0.7163456282389393,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.1,0.7149461840240946,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.2,0.7130179087563079,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.3,0.7118003863009901,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.4,0.7066066040668831,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.5,0.7023968236308072,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.6,0.6998379637981114,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.7,0.6957596992444157,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.8,0.6930558473216486,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,10.9,0.6909418779591365,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11,0.6891085324401198,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.1,0.687782344647987,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.2,0.6841750660057131,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.3,0.6819426694696831,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.4,0.6796808337774585,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.5,0.6759061718105118,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.6,0.6722164790971484,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.7,0.6687176491356861,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.8,0.667977859805284,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,11.9,0.6649817540771038,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12,0.6560388027275392,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.1,0.6548401085026289,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.2,0.6525313746874162,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.3,0.6518221253968118,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.4,0.6502344550209137,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.5,0.6414316833646412,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.6,0.6393181702498938,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.7,0.6368104370437226,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.8,0.635158355440877,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,12.9,0.6328832175915488,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13,0.627502865164948,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.1,0.6273442434407149,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.2,0.6225989407530204,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.3,0.6206121146325639,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.4,0.6184000561974679,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.5,0.6113474112411124,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.6,0.6073377324717786,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.7,0.606476414862271,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.8,0.6037929152823079,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,13.9,0.6017395039817616,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14,0.5902542838299563,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.1,0.5891583417150732,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.2,0.5854544131707087,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.3,0.5844131698786099,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.4,0.5839511187663746,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.5,0.5763515112939628,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.6,0.574881983198232,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.7,0.5739926169121086,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.8,0.5703567590625658,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,14.9,0.5643256334448679,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15,0.5598773115036616,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.1,0.5566611382211106,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.2,0.5562261857024776,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.3,0.5509562728470329,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.4,0.542824208518146,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.5,0.5396174551957101,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.6,0.537416336141902,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.7,0.5314993230837867,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.8,0.5262897057996966,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,15.9,0.5240016230230382,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16,0.521598438039888,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.1,0.5197742207839593,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.2,0.5175587721674079,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.3,0.5174263224623205,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.400000000000002,0.5169155501872819,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.5,0.5073796884700922,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.6,0.5053439723644666,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.7,0.5043404864488502,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.8,0.5029063435740452,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,16.900000000000002,0.5003021104437982,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17,0.4938931832689024,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.1,0.4931935187930382,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.2,0.4928268055165037,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.3,0.48575536953476894,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.400000000000002,0.4854282741063982,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.5,0.4800402584765171,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.6,0.47646833688688794,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.7,0.47646833688688794,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.8,0.47646833688688794,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,17.900000000000002,0.47125584450691993,Glycemic status,glycemic,glycemic|diagnosed diabetes
+diagnosed diabetes,18,0.46975376213208697,Glycemic status,glycemic,glycemic|diagnosed diabetes
+normal,0,0.9999593646334628,Glycemic status,glycemic,glycemic|normal
+normal,0.1,0.9997954992110908,Glycemic status,glycemic,glycemic|normal
+normal,0.2,0.9993798885925756,Glycemic status,glycemic,glycemic|normal
+normal,0.30000000000000004,0.9990463242687128,Glycemic status,glycemic,glycemic|normal
+normal,0.4,0.998725399278466,Glycemic status,glycemic,glycemic|normal
+normal,0.5,0.9979875465954582,Glycemic status,glycemic,glycemic|normal
+normal,0.6000000000000001,0.9975278486836818,Glycemic status,glycemic,glycemic|normal
+normal,0.7000000000000001,0.9970665872451612,Glycemic status,glycemic,glycemic|normal
+normal,0.8,0.9965989164888944,Glycemic status,glycemic,glycemic|normal
+normal,0.9,0.9961687104806114,Glycemic status,glycemic,glycemic|normal
+normal,1,0.9952452902005676,Glycemic status,glycemic,glycemic|normal
+normal,1.1,0.9946433099540912,Glycemic status,glycemic,glycemic|normal
+normal,1.2000000000000002,0.9942313635253816,Glycemic status,glycemic,glycemic|normal
+normal,1.3,0.993971458200509,Glycemic status,glycemic,glycemic|normal
+normal,1.4,0.9935320394632724,Glycemic status,glycemic,glycemic|normal
+normal,1.5,0.9927911435237792,Glycemic status,glycemic,glycemic|normal
+normal,1.6,0.9924160801428182,Glycemic status,glycemic,glycemic|normal
+normal,1.7000000000000002,0.9919782867963256,Glycemic status,glycemic,glycemic|normal
+normal,1.8,0.991517746908016,Glycemic status,glycemic,glycemic|normal
+normal,1.9,0.990897603668775,Glycemic status,glycemic,glycemic|normal
+normal,2,0.989683346963006,Glycemic status,glycemic,glycemic|normal
+normal,2.1,0.9892071826751478,Glycemic status,glycemic,glycemic|normal
+normal,2.2,0.9887410628937956,Glycemic status,glycemic,glycemic|normal
+normal,2.3000000000000003,0.988422525269117,Glycemic status,glycemic,glycemic|normal
+normal,2.4000000000000004,0.9880363390221014,Glycemic status,glycemic,glycemic|normal
+normal,2.5,0.9873492166888002,Glycemic status,glycemic,glycemic|normal
+normal,2.6,0.9868502034560318,Glycemic status,glycemic,glycemic|normal
+normal,2.7,0.9862524216404168,Glycemic status,glycemic,glycemic|normal
+normal,2.8000000000000003,0.985891078112424,Glycemic status,glycemic,glycemic|normal
+normal,2.9000000000000004,0.985350282428449,Glycemic status,glycemic,glycemic|normal
+normal,3,0.984349771205054,Glycemic status,glycemic,glycemic|normal
+normal,3.1,0.9840506460867612,Glycemic status,glycemic,glycemic|normal
+normal,3.2,0.9835514582441808,Glycemic status,glycemic,glycemic|normal
+normal,3.3000000000000003,0.98300600561879,Glycemic status,glycemic,glycemic|normal
+normal,3.4000000000000004,0.98241373400057,Glycemic status,glycemic,glycemic|normal
+normal,3.5,0.9813878698109382,Glycemic status,glycemic,glycemic|normal
+normal,3.6,0.98088484864905,Glycemic status,glycemic,glycemic|normal
+normal,3.7,0.980404173196818,Glycemic status,glycemic,glycemic|normal
+normal,3.8,0.9796925912029756,Glycemic status,glycemic,glycemic|normal
+normal,3.9,0.9792051886169836,Glycemic status,glycemic,glycemic|normal
+normal,4,0.9785249212695808,Glycemic status,glycemic,glycemic|normal
+normal,4.1000000000000005,0.9779267413738546,Glycemic status,glycemic,glycemic|normal
+normal,4.2,0.977444182177754,Glycemic status,glycemic,glycemic|normal
+normal,4.3,0.9767132585464164,Glycemic status,glycemic,glycemic|normal
+normal,4.4,0.9758996485954792,Glycemic status,glycemic,glycemic|normal
+normal,4.5,0.9748868712712176,Glycemic status,glycemic,glycemic|normal
+normal,4.6000000000000005,0.9742685397111784,Glycemic status,glycemic,glycemic|normal
+normal,4.7,0.9735116595572731,Glycemic status,glycemic,glycemic|normal
+normal,4.800000000000001,0.9728219603454364,Glycemic status,glycemic,glycemic|normal
+normal,4.9,0.9720978003428752,Glycemic status,glycemic,glycemic|normal
+normal,5,0.9704367135019852,Glycemic status,glycemic,glycemic|normal
+normal,5.1000000000000005,0.9699138806237438,Glycemic status,glycemic,glycemic|normal
+normal,5.2,0.9694295936153516,Glycemic status,glycemic,glycemic|normal
+normal,5.300000000000001,0.9688450341979258,Glycemic status,glycemic,glycemic|normal
+normal,5.4,0.9683978672231612,Glycemic status,glycemic,glycemic|normal
+normal,5.5,0.9671305787965054,Glycemic status,glycemic,glycemic|normal
+normal,5.6000000000000005,0.9664148293512445,Glycemic status,glycemic,glycemic|normal
+normal,5.7,0.965628983912076,Glycemic status,glycemic,glycemic|normal
+normal,5.800000000000001,0.9651096730457616,Glycemic status,glycemic,glycemic|normal
+normal,5.9,0.9646567574883632,Glycemic status,glycemic,glycemic|normal
+normal,6,0.9632489038837204,Glycemic status,glycemic,glycemic|normal
+normal,6.1000000000000005,0.9626481177467237,Glycemic status,glycemic,glycemic|normal
+normal,6.2,0.9621947913442648,Glycemic status,glycemic,glycemic|normal
+normal,6.300000000000001,0.9617694838018788,Glycemic status,glycemic,glycemic|normal
+normal,6.4,0.9607842576054262,Glycemic status,glycemic,glycemic|normal
+normal,6.5,0.9591085114503696,Glycemic status,glycemic,glycemic|normal
+normal,6.6000000000000005,0.9585742835069536,Glycemic status,glycemic,glycemic|normal
+normal,6.7,0.957778225968658,Glycemic status,glycemic,glycemic|normal
+normal,6.800000000000001,0.9572554166030308,Glycemic status,glycemic,glycemic|normal
+normal,6.9,0.956690065428508,Glycemic status,glycemic,glycemic|normal
+normal,7,0.9555653338019964,Glycemic status,glycemic,glycemic|normal
+normal,7.1000000000000005,0.9549237381990484,Glycemic status,glycemic,glycemic|normal
+normal,7.2,0.9542891498009288,Glycemic status,glycemic,glycemic|normal
+normal,7.300000000000001,0.9536660507184272,Glycemic status,glycemic,glycemic|normal
+normal,7.4,0.9531397890975376,Glycemic status,glycemic,glycemic|normal
+normal,7.5,0.9518394780404535,Glycemic status,glycemic,glycemic|normal
+normal,7.6,0.95117530891778,Glycemic status,glycemic,glycemic|normal
+normal,7.7,0.9503726669689154,Glycemic status,glycemic,glycemic|normal
+normal,7.800000000000001,0.9496905717867044,Glycemic status,glycemic,glycemic|normal
+normal,7.9,0.9490859401152631,Glycemic status,glycemic,glycemic|normal
+normal,8,0.9477197833210363,Glycemic status,glycemic,glycemic|normal
+normal,8.1,0.9471695061797042,Glycemic status,glycemic,glycemic|normal
+normal,8.200000000000001,0.9465883042751824,Glycemic status,glycemic,glycemic|normal
+normal,8.3,0.9459017798825896,Glycemic status,glycemic,glycemic|normal
+normal,8.4,0.9450945051832494,Glycemic status,glycemic,glycemic|normal
+normal,8.5,0.944160105584926,Glycemic status,glycemic,glycemic|normal
+normal,8.6,0.9439156161615134,Glycemic status,glycemic,glycemic|normal
+normal,8.700000000000001,0.943515835474205,Glycemic status,glycemic,glycemic|normal
+normal,8.8,0.9430719679791312,Glycemic status,glycemic,glycemic|normal
+normal,8.9,0.9423926510281084,Glycemic status,glycemic,glycemic|normal
+normal,9,0.941052810748846,Glycemic status,glycemic,glycemic|normal
+normal,9.1,0.940334232582836,Glycemic status,glycemic,glycemic|normal
+normal,9.2,0.9394819188412016,Glycemic status,glycemic,glycemic|normal
+normal,9.3,0.9389354351345884,Glycemic status,glycemic,glycemic|normal
+normal,9.4,0.9383555241693244,Glycemic status,glycemic,glycemic|normal
+normal,9.5,0.936503353095808,Glycemic status,glycemic,glycemic|normal
+normal,9.6,0.9356490223626256,Glycemic status,glycemic,glycemic|normal
+normal,9.7,0.93515948855306,Glycemic status,glycemic,glycemic|normal
+normal,9.8,0.9345836892903416,Glycemic status,glycemic,glycemic|normal
+normal,9.9,0.9340278044972532,Glycemic status,glycemic,glycemic|normal
+normal,10,0.9323661315498236,Glycemic status,glycemic,glycemic|normal
+normal,10.1,0.9316561977146036,Glycemic status,glycemic,glycemic|normal
+normal,10.2,0.9305395616756886,Glycemic status,glycemic,glycemic|normal
+normal,10.3,0.9300045099395088,Glycemic status,glycemic,glycemic|normal
+normal,10.4,0.9291305608908365,Glycemic status,glycemic,glycemic|normal
+normal,10.5,0.9277288735989712,Glycemic status,glycemic,glycemic|normal
+normal,10.6,0.9268667156459424,Glycemic status,glycemic,glycemic|normal
+normal,10.7,0.9262502730924422,Glycemic status,glycemic,glycemic|normal
+normal,10.8,0.92542114623026,Glycemic status,glycemic,glycemic|normal
+normal,10.9,0.9250272335777376,Glycemic status,glycemic,glycemic|normal
+normal,11,0.9239857454884266,Glycemic status,glycemic,glycemic|normal
+normal,11.1,0.9236251746014718,Glycemic status,glycemic,glycemic|normal
+normal,11.2,0.9229964880651892,Glycemic status,glycemic,glycemic|normal
+normal,11.3,0.9223435796797812,Glycemic status,glycemic,glycemic|normal
+normal,11.4,0.9218565143528864,Glycemic status,glycemic,glycemic|normal
+normal,11.5,0.9209555454848188,Glycemic status,glycemic,glycemic|normal
+normal,11.6,0.9201997697491504,Glycemic status,glycemic,glycemic|normal
+normal,11.7,0.919747424457167,Glycemic status,glycemic,glycemic|normal
+normal,11.8,0.919196127089831,Glycemic status,glycemic,glycemic|normal
+normal,11.9,0.9183207272390076,Glycemic status,glycemic,glycemic|normal
+normal,12,0.91717174979218,Glycemic status,glycemic,glycemic|normal
+normal,12.1,0.9163688109642082,Glycemic status,glycemic,glycemic|normal
+normal,12.2,0.9160259148875154,Glycemic status,glycemic,glycemic|normal
+normal,12.3,0.915397124896226,Glycemic status,glycemic,glycemic|normal
+normal,12.4,0.9146565939665504,Glycemic status,glycemic,glycemic|normal
+normal,12.5,0.9140797790087613,Glycemic status,glycemic,glycemic|normal
+normal,12.6,0.9134615400714444,Glycemic status,glycemic,glycemic|normal
+normal,12.7,0.9128407585187204,Glycemic status,glycemic,glycemic|normal
+normal,12.8,0.9123534364980708,Glycemic status,glycemic,glycemic|normal
+normal,12.9,0.9115090419126194,Glycemic status,glycemic,glycemic|normal
+normal,13,0.9100594294802322,Glycemic status,glycemic,glycemic|normal
+normal,13.1,0.909374382144818,Glycemic status,glycemic,glycemic|normal
+normal,13.2,0.9083021359341878,Glycemic status,glycemic,glycemic|normal
+normal,13.3,0.9075215129420184,Glycemic status,glycemic,glycemic|normal
+normal,13.4,0.9066855961782284,Glycemic status,glycemic,glycemic|normal
+normal,13.5,0.9055199661855866,Glycemic status,glycemic,glycemic|normal
+normal,13.6,0.9052525307743235,Glycemic status,glycemic,glycemic|normal
+normal,13.7,0.9046953246013224,Glycemic status,glycemic,glycemic|normal
+normal,13.8,0.9041937686634456,Glycemic status,glycemic,glycemic|normal
+normal,13.9,0.903218081045866,Glycemic status,glycemic,glycemic|normal
+normal,14,0.9016259031230072,Glycemic status,glycemic,glycemic|normal
+normal,14.1,0.9005725526270977,Glycemic status,glycemic,glycemic|normal
+normal,14.2,0.8996529136432798,Glycemic status,glycemic,glycemic|normal
+normal,14.3,0.8985501636016591,Glycemic status,glycemic,glycemic|normal
+normal,14.4,0.8980744324702191,Glycemic status,glycemic,glycemic|normal
+normal,14.5,0.8956801426844482,Glycemic status,glycemic,glycemic|normal
+normal,14.6,0.8949160502950502,Glycemic status,glycemic,glycemic|normal
+normal,14.7,0.8938035884807563,Glycemic status,glycemic,glycemic|normal
+normal,14.8,0.8927367632257989,Glycemic status,glycemic,glycemic|normal
+normal,14.9,0.892132885839211,Glycemic status,glycemic,glycemic|normal
+normal,15,0.8911258464323717,Glycemic status,glycemic,glycemic|normal
+normal,15.1,0.8905795879825988,Glycemic status,glycemic,glycemic|normal
+normal,15.2,0.8897605125156642,Glycemic status,glycemic,glycemic|normal
+normal,15.3,0.8887375893524954,Glycemic status,glycemic,glycemic|normal
+normal,15.4,0.8879347571421128,Glycemic status,glycemic,glycemic|normal
+normal,15.5,0.8871448943840786,Glycemic status,glycemic,glycemic|normal
+normal,15.6,0.8860873154433906,Glycemic status,glycemic,glycemic|normal
+normal,15.7,0.8851639052313883,Glycemic status,glycemic,glycemic|normal
+normal,15.8,0.8846829359886247,Glycemic status,glycemic,glycemic|normal
+normal,15.9,0.8830165034867286,Glycemic status,glycemic,glycemic|normal
+normal,16,0.8818515012916239,Glycemic status,glycemic,glycemic|normal
+normal,16.1,0.8811144407025671,Glycemic status,glycemic,glycemic|normal
+normal,16.2,0.8808555783832761,Glycemic status,glycemic,glycemic|normal
+normal,16.3,0.8803207099600378,Glycemic status,glycemic,glycemic|normal
+normal,16.400000000000002,0.8795381643706742,Glycemic status,glycemic,glycemic|normal
+normal,16.5,0.8785736426867414,Glycemic status,glycemic,glycemic|normal
+normal,16.6,0.8774012232413875,Glycemic status,glycemic,glycemic|normal
+normal,16.7,0.8762390975347054,Glycemic status,glycemic,glycemic|normal
+normal,16.8,0.8749122939935284,Glycemic status,glycemic,glycemic|normal
+normal,16.900000000000002,0.8737033670315633,Glycemic status,glycemic,glycemic|normal
+normal,17,0.8709851192658676,Glycemic status,glycemic,glycemic|normal
+normal,17.1,0.8704335502195264,Glycemic status,glycemic,glycemic|normal
+normal,17.2,0.8697463061084816,Glycemic status,glycemic,glycemic|normal
+normal,17.3,0.8692285067483935,Glycemic status,glycemic,glycemic|normal
+normal,17.400000000000002,0.8681928976712635,Glycemic status,glycemic,glycemic|normal
+normal,17.5,0.8660366749650116,Glycemic status,glycemic,glycemic|normal
+normal,17.6,0.8653267340399253,Glycemic status,glycemic,glycemic|normal
+normal,17.7,0.8643468993006007,Glycemic status,glycemic,glycemic|normal
+normal,17.8,0.8643326624012313,Glycemic status,glycemic,glycemic|normal
+normal,17.900000000000002,0.8623518721143052,Glycemic status,glycemic,glycemic|normal
+normal,18,0.8613322470241941,Glycemic status,glycemic,glycemic|normal
+prediabetes,0,0.9999269325289406,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.1,0.999703669489984,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.2,0.9987784492250492,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.30000000000000004,0.9979694744383336,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.4,0.9974728615269952,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.5,0.995568702930113,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.6000000000000001,0.9947062534748496,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.7000000000000001,0.9937034375320803,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.8,0.9930555879204648,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,0.9,0.9923259826876945,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1,0.9911700070959538,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.1,0.9907294901838428,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.2000000000000002,0.9898344710659924,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.3,0.9889165322441154,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.4,0.987823421743107,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.5,0.9869191980688368,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.6,0.9857393172871196,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.7000000000000002,0.9849729583450844,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.8,0.9845639850106456,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,1.9,0.9836118731913632,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2,0.981567590880317,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.1,0.9807459872188368,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.2,0.9799878981666112,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.3000000000000003,0.9788963239330882,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.4000000000000004,0.978007629783134,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.5,0.9747957311424578,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.6,0.974320847084524,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.7,0.9735932699254196,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.8000000000000003,0.9716810237576172,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,2.9000000000000004,0.970537785656932,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3,0.9682034114902248,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.1,0.9674519675498336,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.2,0.9661552725833848,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.3000000000000003,0.965221808354024,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.4000000000000004,0.9648063538618304,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.5,0.962414389674252,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.6,0.9612076530191218,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.7,0.96043815159774,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.8,0.9597093398734532,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,3.9,0.9585532772527676,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4,0.956639447142664,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.1000000000000005,0.9558013849575542,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.2,0.95500351851499,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.3,0.9537843185937764,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.4,0.9526967991620132,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.5,0.9505290586074951,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.6000000000000005,0.949676890543448,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.7,0.9481430452810056,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.800000000000001,0.947078389803789,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,4.9,0.946415534574094,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5,0.9443300437022732,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.1000000000000005,0.94301399149577,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.2,0.9426237698774012,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.300000000000001,0.941073487752272,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.4,0.9401676253690936,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.5,0.937725652846576,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.6000000000000005,0.9358990845592292,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.7,0.9349634642667316,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.800000000000001,0.933905855045046,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,5.9,0.9322130126967012,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6,0.9293983235290952,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.1000000000000005,0.928445860396246,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.2,0.9265949621464832,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.300000000000001,0.925199727371958,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.4,0.9240911294276682,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.5,0.9220213549552764,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.6000000000000005,0.9206650710372368,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.7,0.9191503621553816,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.800000000000001,0.9181248685545976,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,6.9,0.916991223654627,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7,0.9145829041933696,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.1000000000000005,0.9128883009885344,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.2,0.9116734010248344,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.300000000000001,0.9098112920547982,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.4,0.9084391361378366,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.5,0.9047279131148508,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.6,0.902402279321662,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.7,0.9011650483112326,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.800000000000001,0.9001174019411767,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,7.9,0.8989912103915038,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8,0.8968076305538687,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.1,0.8958002111107126,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.200000000000001,0.8948790536778396,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.3,0.8937916069400327,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.4,0.8923997437130741,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.5,0.8905199339562657,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.6,0.8891115706611172,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.700000000000001,0.8875288761175938,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.8,0.8866145505002512,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,8.9,0.8854179752231618,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9,0.882358305925975,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.1,0.8814683206692127,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.2,0.8803063669347552,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.3,0.8788100535039036,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.4,0.8774526733812955,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.5,0.8756435270706604,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.6,0.8743696062396438,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.7,0.8727920125857556,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.8,0.8717331366586357,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,9.9,0.8711522124393641,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10,0.8682724077312389,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.1,0.866134381013476,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.2,0.8651170949493726,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.3,0.8635692722266697,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.4,0.8628083660855569,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.5,0.8606184882185934,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.6,0.859886369619721,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.7,0.8586530503042659,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.8,0.8578271220280899,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,10.9,0.8563744755740398,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11,0.8529283181255785,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.1,0.8519991691862645,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.2,0.8504037286619897,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.3,0.8490589473717932,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.4,0.8465703407546704,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.5,0.8440662738556332,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.6,0.8428916181255336,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.7,0.8413521856859456,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.8,0.8391635016821367,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,11.9,0.8375843438050661,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12,0.8350381810313912,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.1,0.8337066288914275,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.2,0.8321080941045026,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.3,0.8303601630469883,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.4,0.8286459391182652,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.5,0.8257733501256577,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.6,0.8237713507427459,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.7,0.8223172691237124,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.8,0.8218602389580614,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,12.9,0.8198108128229813,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13,0.8157473505188216,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.1,0.8138615487396671,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.2,0.811923443579291,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.3,0.8100416858244053,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.4,0.8094612065540202,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.5,0.8057224747487882,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.6,0.8050497285932144,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.7,0.8035844777079786,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.8,0.8017392065141965,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,13.9,0.8007057670784311,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14,0.7968833918186528,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.1,0.7941745871511369,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.2,0.792589753216241,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.3,0.7921916082864957,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.4,0.7909973239624459,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.5,0.7885985146250922,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.6,0.7869136045402343,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.7,0.7861366326135422,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.8,0.7845991116718636,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,14.9,0.7826630590112021,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15,0.7780783915722231,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.1,0.7759616060151281,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.2,0.7740055023470779,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.3,0.7716337927196881,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.4,0.7698745629725652,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.5,0.7665036566335344,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.6,0.7645179541193688,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.7,0.764469045050318,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.8,0.7636376438581718,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,15.9,0.76247099516026,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16,0.758620530784437,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.1,0.7579711638184868,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.2,0.7559754802443563,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.3,0.7536741230473614,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.400000000000002,0.7504756266327894,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.5,0.7475575669789499,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.6,0.7471704095530027,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.7,0.7471704095530027,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.8,0.7449909994277376,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,16.900000000000002,0.7438580008437248,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17,0.7404433750281706,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.1,0.7386424310270704,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.2,0.7354296235097161,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.3,0.7335452242968415,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.400000000000002,0.7306505448213005,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.5,0.7293023451319957,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.6,0.7289710545350494,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.7,0.7285248578197624,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.8,0.7262935735902769,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,17.900000000000002,0.723538766806349,Glycemic status,glycemic,glycemic|prediabetes
+prediabetes,18,0.7219498072113802,Glycemic status,glycemic,glycemic|prediabetes
+undiagnosed diabetes,0,0.9988565528496915,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.1,0.9968777651115877,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.2,0.996427521209432,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.30000000000000004,0.9945880325742212,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.4,0.9937006831367337,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.5,0.9915034068461926,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.6000000000000001,0.9903455320791658,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.7000000000000001,0.9894898057934456,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.8,0.985653612878031,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,0.9,0.9848595368222316,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1,0.9826763470309122,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.1,0.981503719983654,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.2000000000000002,0.9784940468562666,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.3,0.9743545630574096,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.4,0.9722786466708108,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.5,0.9661766398738006,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.6,0.963915323017595,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.7000000000000002,0.9630226660720728,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.8,0.9621296381896668,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,1.9,0.9607842888646644,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2,0.9556458345047978,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.1,0.953979509500115,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.2,0.951981581925622,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.3000000000000003,0.9492163474342974,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.4000000000000004,0.9477607180914877,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.5,0.9446172521156035,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.6,0.9441580745791384,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.7,0.9438491298119864,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.8000000000000003,0.9419799881029978,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,2.9000000000000004,0.9410118250204986,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3,0.9397887440903352,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.1,0.9397887440903352,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.2,0.9385093410712676,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.3000000000000003,0.9381687583904874,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.4000000000000004,0.9343277262682028,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.5,0.9290883859502987,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.6,0.9276118243696982,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.7,0.9254198918329392,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.8,0.9246074256235898,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,3.9,0.9239045520503508,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4,0.919412570561388,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.1000000000000005,0.91713527573815,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.2,0.9147389106336278,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.3,0.9138516388248038,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.4,0.9136811871406932,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.5,0.9109731079378762,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.6000000000000005,0.9086316910978828,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.7,0.9062867493639858,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.800000000000001,0.9043993086523008,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,4.9,0.9043993086523008,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5,0.8991744457945139,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.1000000000000005,0.8982443663564268,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.2,0.8973552636409591,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.300000000000001,0.8946479910007151,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.4,0.8922751690519115,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.5,0.890377900883886,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.6000000000000005,0.8885417296157859,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.7,0.8868860453623373,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.800000000000001,0.8861427147697053,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,5.9,0.8820930666337008,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6,0.8772285644583137,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.1000000000000005,0.8742085471197857,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.2,0.8711897297518046,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.300000000000001,0.8697298176367192,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.4,0.8664651425739388,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.5,0.861756976877152,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.6000000000000005,0.8583887365447996,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.7,0.8543072468185238,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.800000000000001,0.8531070861117707,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,6.9,0.8504170401394612,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7,0.8470346819681039,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.1000000000000005,0.8449037878970921,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.2,0.8410445132951408,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.300000000000001,0.837383607220746,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.4,0.8371763353614687,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.5,0.8335959047556554,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.6,0.8303709620400848,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.7,0.8301711212930372,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.800000000000001,0.8285914707635761,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,7.9,0.8281673703223633,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8,0.8276890003766947,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.1,0.8268079595045454,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.200000000000001,0.8267723210765188,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.3,0.8247599920670688,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.4,0.8219771276841825,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.5,0.8161337002185249,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.6,0.814738964950182,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.700000000000001,0.8110247724865713,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.8,0.8101052196149358,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,8.9,0.8057500619245255,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9,0.8046867198014864,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.1,0.8040559946199107,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.2,0.7992817478968358,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.3,0.7935235968542909,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.4,0.7924305151093787,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.5,0.7893506842579131,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.6,0.7877608151667499,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.7,0.7871074090609529,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.8,0.7856609433915225,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,9.9,0.7822803159376709,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10,0.7773968959516183,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.1,0.7734022677693024,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.2,0.7687081909213892,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.3,0.7661831687527083,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.4,0.7652055989889689,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.5,0.756914167669337,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.6,0.7559376068673943,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.7,0.7548430641102392,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.8,0.7515342331069084,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,10.9,0.7478185287932384,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11,0.7420420507025214,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.1,0.7420420507025214,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.2,0.7407309944324062,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.3,0.7407309944324062,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.4,0.7398107422800652,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.5,0.7344616259776741,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.6,0.7344616259776741,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.7,0.7325504318992013,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.8,0.7325252420091051,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,11.9,0.7325252420091051,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12,0.7254085399034618,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.1,0.7237826529934562,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.2,0.7222251449493383,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.3,0.7192187735706013,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.4,0.7153115410388089,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.5,0.7119260681420435,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.6,0.709649725333707,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.7,0.709649725333707,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.8,0.7048580554080187,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,12.9,0.6999754778422828,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13,0.6993684670435333,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.1,0.6973442585031231,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.2,0.6952343810011056,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.3,0.6935105553781511,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.4,0.6928976843702438,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.5,0.6851847949832858,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.6,0.6846938500438229,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.7,0.6813945519542275,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.8,0.6813945519542275,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,13.9,0.6802676699918627,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14,0.6729376284754532,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.1,0.6719878031085497,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.2,0.671278654904181,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.3,0.6685647906079062,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.4,0.6643685308949029,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.5,0.663371113474008,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.6,0.663371113474008,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.7,0.6632384625361475,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.8,0.6556630987035711,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,14.9,0.6529256039958686,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15,0.6529106614323662,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.1,0.6434160401642003,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.2,0.6434160401642003,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.3,0.6434160401642003,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.4,0.6430478828303472,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.5,0.6430478828303472,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.6,0.6392710765074794,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.7,0.6383348107137137,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.8,0.6383348107137137,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,15.9,0.6319424504491296,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16,0.6308861862725345,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.1,0.6286770944278055,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.2,0.6255920156287214,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.3,0.6251677118415361,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.400000000000002,0.6247015640777562,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.5,0.6192579940616761,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.6,0.6143428198317591,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.7,0.6143428198317591,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.8,0.5976959585137767,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,16.900000000000002,0.5937155031296489,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17,0.5934720229676888,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.1,0.5934720229676888,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.2,0.5934720229676888,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.3,0.5934720229676888,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.400000000000002,0.5934720229676888,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.5,0.5891630828849868,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.6,0.5891630828849868,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.7,0.5891067925355479,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.8,0.5891067925355479,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,17.900000000000002,0.5763654431669349,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+undiagnosed diabetes,18,0.5629577484330072,Glycemic status,glycemic,glycemic|undiagnosed diabetes
+hypertension,0,0.9998218374840372,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.1,0.9994071522285912,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.2,0.9977656822419236,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.30000000000000004,0.9965378738666096,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.4,0.9951803563577072,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.5,0.9922628600641152,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.6000000000000001,0.9904209413278594,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.7000000000000001,0.9890825914551225,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.8,0.9872445259336844,Hypertension,hypertension,hypertension|hypertension
+hypertension,0.9,0.9862832321980484,Hypertension,hypertension,hypertension|hypertension
+hypertension,1,0.9833605531965754,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.1,0.9821612841102796,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.2000000000000002,0.9806253819499074,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.3,0.9793909825941436,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.4,0.9777878897236432,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.5,0.975135420542556,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.6,0.9736948765721036,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.7000000000000002,0.9721954377711712,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.8,0.9711857000902931,Hypertension,hypertension,hypertension|hypertension
+hypertension,1.9,0.9693890517987168,Hypertension,hypertension,hypertension|hypertension
+hypertension,2,0.965549699074042,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.1,0.9637627263913464,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.2,0.961858944148288,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.3000000000000003,0.9601660827912288,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.4000000000000004,0.9585149199816444,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.5,0.9546660518486938,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.6,0.9533175465797356,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.7,0.9513350501445088,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.8000000000000003,0.9490006637727192,Hypertension,hypertension,hypertension|hypertension
+hypertension,2.9000000000000004,0.9468801311735058,Hypertension,hypertension,hypertension|hypertension
+hypertension,3,0.943369997876094,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.1,0.9422013694089114,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.2,0.940231227438572,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.3000000000000003,0.939180946919286,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.4000000000000004,0.937049462992947,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.5,0.933446457037814,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.6,0.93148095462336,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.7,0.9299230309299282,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.8,0.9277872581668024,Hypertension,hypertension,hypertension|hypertension
+hypertension,3.9,0.9262146741400008,Hypertension,hypertension,hypertension|hypertension
+hypertension,4,0.92267842916198894,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.1000000000000005,0.9206431878200882,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.2,0.9190059433113276,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.3,0.9165714790320512,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.4,0.9145270093172206,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.5,0.9104779603274272,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.6000000000000005,0.9087594835535732,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.7,0.9065365970325984,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.800000000000001,0.904708450729802,Hypertension,hypertension,hypertension|hypertension
+hypertension,4.9,0.9020780004434742,Hypertension,hypertension,hypertension|hypertension
+hypertension,5,0.8976897599742016,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.1000000000000005,0.8955374635067619,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.2,0.8938989953945663,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.300000000000001,0.8916675282628103,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.4,0.8901710735163167,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.5,0.8850898593445745,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.6000000000000005,0.8826376437178275,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.7,0.8807262946155404,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.800000000000001,0.8793227633750395,Hypertension,hypertension,hypertension|hypertension
+hypertension,5.9,0.8768981931858266,Hypertension,hypertension,hypertension|hypertension
+hypertension,6,0.871477834455007,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.1000000000000005,0.8694645807890811,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.2,0.866799129418783,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.300000000000001,0.8647223986618214,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.4,0.8622081691438416,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.5,0.8576700063546444,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.6000000000000005,0.8550971621037129,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.7,0.8520792783168988,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.800000000000001,0.8505254816110568,Hypertension,hypertension,hypertension|hypertension
+hypertension,6.9,0.8485285604742875,Hypertension,hypertension,hypertension|hypertension
+hypertension,7,0.8441451509332007,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.1000000000000005,0.842783137074659,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.2,0.8408125973321061,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.300000000000001,0.8386898924176026,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.4,0.8366732352078284,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.5,0.8317764354630774,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.6,0.8291636120931006,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.7,0.8266455542726809,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.800000000000001,0.8246142307694355,Hypertension,hypertension,hypertension|hypertension
+hypertension,7.9,0.8228391599484463,Hypertension,hypertension,hypertension|hypertension
+hypertension,8,0.8187194223246972,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.1,0.816743037969301,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.200000000000001,0.815022666833452,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.3,0.8127518755936545,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.4,0.8101602875313973,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.5,0.8059112085197471,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.6,0.8042733985488486,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.700000000000001,0.8021963986203584,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.8,0.8006558782662223,Hypertension,hypertension,hypertension|hypertension
+hypertension,8.9,0.7986506970460299,Hypertension,hypertension,hypertension|hypertension
+hypertension,9,0.7950040939354983,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.1,0.7929670625783236,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.2,0.7901304390825848,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.3,0.7882968685344491,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.4,0.7870624740499139,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.5,0.7830425861341099,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.6,0.7807032646861327,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.7,0.7791917520504181,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.8,0.7776103926143123,Hypertension,hypertension,hypertension|hypertension
+hypertension,9.9,0.7758978575479327,Hypertension,hypertension,hypertension|hypertension
+hypertension,10,0.7718553966910418,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.1,0.769691016745732,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.2,0.7671203626567569,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.3,0.7657039070534347,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.4,0.7634950104122609,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.5,0.7594873961952258,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.6,0.757669615949162,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.7,0.7552900843567498,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.8,0.7535969015582532,Hypertension,hypertension,hypertension|hypertension
+hypertension,10.9,0.7518244952524743,Hypertension,hypertension,hypertension|hypertension
+hypertension,11,0.7475690334708395,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.1,0.7462374344761223,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.2,0.7435272584687312,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.3,0.7416296754945632,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.4,0.7393374839819729,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.5,0.7354792619748939,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.6,0.7331497363969097,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.7,0.7318997742930233,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.8,0.730082988285652,Hypertension,hypertension,hypertension|hypertension
+hypertension,11.9,0.7277688932539543,Hypertension,hypertension,hypertension|hypertension
+hypertension,12,0.7228104141134113,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.1,0.72094747286507,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.2,0.7196352134084372,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.3,0.7177488090982501,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.4,0.715485069796797,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.5,0.7121219168566847,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.6,0.709610053418622,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.7,0.7072543974137204,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.8,0.7063710796942922,Hypertension,hypertension,hypertension|hypertension
+hypertension,12.9,0.7035484720947579,Hypertension,hypertension,hypertension|hypertension
+hypertension,13,0.7002446571026474,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.1,0.6989347413585931,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.2,0.6960740780636541,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.3,0.6935141759113533,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.4,0.6919839080555723,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.5,0.6870907887243968,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.6,0.6856646440615186,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.7,0.6838346541578475,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.8,0.6817801397816748,Hypertension,hypertension,hypertension|hypertension
+hypertension,13.9,0.6802007864009975,Hypertension,hypertension,hypertension|hypertension
+hypertension,14,0.6727992846368593,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.1,0.671406724345818,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.2,0.6685451669844703,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.3,0.6670712425841776,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.4,0.6652275429701712,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.5,0.6595805915125138,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.6,0.6580342322953415,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.7,0.6557195849934492,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.8,0.6517610194788099,Hypertension,hypertension,hypertension|hypertension
+hypertension,14.9,0.6499371067612382,Hypertension,hypertension,hypertension|hypertension
+hypertension,15,0.6465488588274677,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.1,0.644171819582797,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.2,0.6421205450435472,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.3,0.6399278037475362,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.4,0.6373283407013168,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.5,0.6346436918207351,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.6,0.6325183152858418,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.7,0.6300639494314195,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.8,0.6279897205001165,Hypertension,hypertension,hypertension|hypertension
+hypertension,15.9,0.6247457075074027,Hypertension,hypertension,hypertension|hypertension
+hypertension,16,0.6220940225575358,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.1,0.6198669562496176,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.2,0.6187916561353018,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.3,0.6176257093453298,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.400000000000002,0.6151988196964702,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.5,0.6110686491450622,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.6,0.6094399734706384,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.7,0.6079021422621544,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.8,0.6035556301949284,Hypertension,hypertension,hypertension|hypertension
+hypertension,16.900000000000002,0.602331903551945,Hypertension,hypertension,hypertension|hypertension
+hypertension,17,0.5959310593370797,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.1,0.5953727546840607,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.2,0.5926668360677332,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.3,0.5898893150857046,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.400000000000002,0.5873047560989872,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.5,0.582822505552659,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.6,0.5812049045725367,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.7,0.5800484521655608,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.8,0.5788620914348688,Hypertension,hypertension,hypertension|hypertension
+hypertension,17.900000000000002,0.5754929111607759,Hypertension,hypertension,hypertension|hypertension
+hypertension,18,0.5719879185087435,Hypertension,hypertension,hypertension|hypertension
+no hypertension,0,0.9999491158794888,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.1,0.9997469454001304,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.2,0.9993249955073472,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.30000000000000004,0.999076836740478,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.4,0.9989022555071628,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.5,0.9983191691715038,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.6000000000000001,0.9978982562859836,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.7000000000000001,0.9974449131663294,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.8,0.9971809088738268,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,0.9,0.9968421873537736,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1,0.996139564706536,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.1,0.9957486806973757,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.2000000000000002,0.9953668675043398,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.3,0.9949864020604946,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.4,0.9945736167320084,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.5,0.9940472644249024,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.6,0.993462396567563,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.7000000000000002,0.9931786848633206,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.8,0.992825936973768,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,1.9,0.9924532851345492,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2,0.9915192056474396,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.1,0.9911579848347012,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.2,0.9907737961757646,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.3000000000000003,0.9903079035097132,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.4000000000000004,0.9901050162359376,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.5,0.98912938904626,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.6,0.9888277850393374,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.7,0.9885560484275304,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.8000000000000003,0.9880318349382576,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,2.9000000000000004,0.987617081055316,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3,0.9868357346314328,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.1,0.9865544304743596,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.2,0.9860565240239628,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.3000000000000003,0.98547705523949,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.4000000000000004,0.985174555064836,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.5,0.983999617735282,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.6,0.9837138875835716,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.7,0.983275961300968,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.8,0.9830629437721412,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,3.9,0.9825388475458932,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4,0.9818657427350012,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.1000000000000005,0.9816191167180692,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.2,0.9813366752314944,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.3,0.980763826036424,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.4,0.9803089717982728,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.5,0.9795140328914336,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.6000000000000005,0.979064142724674,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.7,0.978464273736114,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.800000000000001,0.9780558701516716,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,4.9,0.9777426491853364,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5,0.9764283854723096,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.1000000000000005,0.9758766802131672,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.2,0.9756064990544152,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.300000000000001,0.9751132517457108,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.4,0.9747003881127296,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.5,0.974211977049934,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.6000000000000005,0.9736633699769404,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.7,0.972984200137648,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.800000000000001,0.9723631442187106,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,5.9,0.9720072055792288,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6,0.971067420650136,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.1000000000000005,0.970768334562772,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.2,0.9702261189233484,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.300000000000001,0.9699177679391898,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.4,0.9692654696836832,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.5,0.9682188181208132,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.6000000000000005,0.9679146288213296,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.7,0.9675026927936607,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.800000000000001,0.9669328596699556,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,6.9,0.966538936513892,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7,0.9656605229313476,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.1000000000000005,0.9648936418009906,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.2,0.9644817660109086,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.300000000000001,0.9637154168631816,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.4,0.963202062771672,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.5,0.9621775363515018,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.6,0.9614240815570232,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.7,0.96097671252218,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.800000000000001,0.960422647572169,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,7.9,0.9600168937082828,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8,0.95922685009336806,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.1,0.958908228358196,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.200000000000001,0.9585022557652376,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.3,0.9580832127784076,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.4,0.957577584400065,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.5,0.9569871416721718,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.6,0.9565308148398526,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.700000000000001,0.9560198243605948,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.8,0.9554706227577208,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,8.9,0.9549992876231846,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9,0.9537954673701602,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.1,0.9533181343383172,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.2,0.9529489424895112,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.3,0.95232530405551,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.4,0.95170151736788,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.5,0.9503762111407986,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.6,0.9498274435309828,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.7,0.949271656434212,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.8,0.9487185404942132,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,9.9,0.9483364324270916,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10,0.947113511961781,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.1,0.9463442420069472,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.2,0.9456974897993576,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.3,0.9450456254760748,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.4,0.9443252221082205,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.5,0.9432437085845397,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.6,0.9426661172132164,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.7,0.9422191698110556,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.8,0.9414780009789118,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,10.9,0.9410145491312562,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11,0.9403097383328848,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.1,0.9400953516384918,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.2,0.9397101528615268,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.3,0.9392304406310484,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.4,0.938658427511183,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.5,0.938055119310302,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.6,0.9375719838647364,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.7,0.9367268788438878,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.8,0.9361930717737066,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,11.9,0.9355283258780228,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12,0.9345470785030876,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.1,0.9339727857716846,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.2,0.9333920806878608,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.3,0.932862645912803,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.4,0.9322774735613168,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.5,0.931219017037446,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.6,0.9307821747169692,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.7,0.9304871676763912,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.8,0.929913131893618,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,12.9,0.929278133814297,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13,0.9274637112107904,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.1,0.9267003984416152,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.2,0.9257374143226396,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.3,0.92525110286312,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.4,0.9246707899792548,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.5,0.923521612714495,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.6,0.9232393850058332,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.7,0.9228346311473818,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.8,0.9223959783577316,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,13.9,0.92155697110618,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14,0.9205961352170656,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.1,0.9192046164016562,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.2,0.9186492711721648,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.3,0.9178761796198676,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.4,0.9176485985111752,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.5,0.9162042272162731,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.6,0.915469874144982,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.7,0.915047633383234,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.8,0.9146116406985112,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,14.9,0.9135356498211996,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15,0.9122170434719996,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.1,0.9114238521898872,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.2,0.9108823845505096,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.3,0.9096038683367316,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.4,0.9086205597349938,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.5,0.9076997523416684,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.6,0.9066416977000552,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.7,0.9061819732571612,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.8,0.905864358769445,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,15.9,0.9048351541021488,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16,0.903418587992314,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.1,0.903224966650742,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.2,0.9025130073300286,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.3,0.9017776553546956,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.400000000000002,0.9010442430700132,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.5,0.8998903713106005,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.6,0.8989463839645714,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.7,0.8983555385667106,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.8,0.8975429541680396,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,16.900000000000002,0.896145226528683,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17,0.8945205429261432,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.1,0.893624485349086,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.2,0.8931018519247151,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.3,0.89254478664182,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.400000000000002,0.8917257894257697,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.5,0.8904124372778758,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.6,0.8899595516409616,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.7,0.889343450338498,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.8,0.8892019717121967,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,17.900000000000002,0.8869160691197959,Hypertension,hypertension,hypertension|no hypertension
+no hypertension,18,0.8862983874005597,Hypertension,hypertension,hypertension|no hypertension
+CKD,0,0.9996046262484948,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.1,0.9984434599810904,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.2,0.995572134469039,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.30000000000000004,0.99335513736903,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.4,0.9909629816017128,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.5,0.98613009503093,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.6000000000000001,0.9830503697218564,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.7000000000000001,0.9803887961321271,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.8,0.9771908282744411,Chronic kidney disease,ckd,ckd|CKD
+CKD,0.9,0.9754935523221387,Chronic kidney disease,ckd,ckd|CKD
+CKD,1,0.969152990149168,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.1,0.966918741980948,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.2000000000000002,0.9643895621513656,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.3,0.9619538268475788,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.4,0.9584111855799656,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.5,0.9530177596088976,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.6,0.9498867673496896,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.7000000000000002,0.94715702023605,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.8,0.9456537164803448,Chronic kidney disease,ckd,ckd|CKD
+CKD,1.9,0.9429200991741956,Chronic kidney disease,ckd,ckd|CKD
+CKD,2,0.9361624539628848,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.1,0.9320145433921804,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.2,0.9283496273722144,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.3000000000000003,0.9243625215757976,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.4000000000000004,0.922094792287221,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.5,0.9152589358679908,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.6,0.9129803808508282,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.7,0.9095396202475612,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.8000000000000003,0.9061200196082506,Chronic kidney disease,ckd,ckd|CKD
+CKD,2.9000000000000004,0.903465512699822,Chronic kidney disease,ckd,ckd|CKD
+CKD,3,0.8977425304175114,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.1,0.8963535995765296,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.2,0.8927939797646776,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.3000000000000003,0.890805334991967,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.4000000000000004,0.8865905111099504,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.5,0.8799894264797081,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.6,0.8766674798743725,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.7,0.8738800854945901,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.8,0.8711015925734649,Chronic kidney disease,ckd,ckd|CKD
+CKD,3.9,0.8679333571762651,Chronic kidney disease,ckd,ckd|CKD
+CKD,4,0.8625729649706743,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.1000000000000005,0.8601700592853717,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.2,0.8585352780983145,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.3,0.8543739023223532,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.4,0.8512079816322687,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.5,0.8445819682441663,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.6000000000000005,0.8419774320520398,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.7,0.8388775296888167,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.800000000000001,0.8366253776627904,Chronic kidney disease,ckd,ckd|CKD
+CKD,4.9,0.8331673979332008,Chronic kidney disease,ckd,ckd|CKD
+CKD,5,0.8259743196202977,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.1000000000000005,0.821932954999822,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.2,0.8195662783616955,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.300000000000001,0.8165369703501886,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.4,0.814448659704579,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.5,0.8075082966949052,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.6000000000000005,0.8041052300996903,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.7,0.8003724745922974,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.800000000000001,0.7977782433091484,Chronic kidney disease,ckd,ckd|CKD
+CKD,5.9,0.7947161506073553,Chronic kidney disease,ckd,ckd|CKD
+CKD,6,0.7876547217577067,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.1000000000000005,0.7849467211839817,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.2,0.7797140676507398,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.300000000000001,0.7773049685486584,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.4,0.7727004248700098,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.5,0.7664853809346379,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.6000000000000005,0.7632188452678283,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.7,0.75927833367899,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.800000000000001,0.7567744306255549,Chronic kidney disease,ckd,ckd|CKD
+CKD,6.9,0.7535630645666174,Chronic kidney disease,ckd,ckd|CKD
+CKD,7,0.7466988593347247,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.1000000000000005,0.7442081016180848,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.2,0.7414583019546549,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.300000000000001,0.7383366144154048,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.4,0.7356375485277677,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.5,0.7282735653764976,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.6,0.7240687058231186,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.7,0.7215811776642862,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.800000000000001,0.7185584657126833,Chronic kidney disease,ckd,ckd|CKD
+CKD,7.9,0.7159803616298099,Chronic kidney disease,ckd,ckd|CKD
+CKD,8,0.7099986237669929,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.1,0.7076122498611863,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.200000000000001,0.7047319767649209,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.3,0.702087452671232,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.4,0.6997660171649089,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.5,0.6950949805306992,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.6,0.6918766781027147,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.700000000000001,0.6891189727249853,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.8,0.6864887117917581,Chronic kidney disease,ckd,ckd|CKD
+CKD,8.9,0.6842512430254646,Chronic kidney disease,ckd,ckd|CKD
+CKD,9,0.6783746060214841,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.1,0.6760410839221684,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.2,0.672434922509402,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.3,0.6709483230394847,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.4,0.6688550838105594,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.5,0.6631397361282615,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.6,0.6599326551276087,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.7,0.6561701317747447,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.8,0.6526177757347319,Chronic kidney disease,ckd,ckd|CKD
+CKD,9.9,0.6498173779276476,Chronic kidney disease,ckd,ckd|CKD
+CKD,10,0.6444732164614786,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.1,0.6417770946116783,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.2,0.6381169369871145,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.3,0.6354339737920028,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.4,0.6313710993799673,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.5,0.6259796568624569,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.6,0.623692891759172,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.7,0.6196507809790225,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.8,0.6184028923710861,Chronic kidney disease,ckd,ckd|CKD
+CKD,10.9,0.6147747250395993,Chronic kidney disease,ckd,ckd|CKD
+CKD,11,0.6108477708612445,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.1,0.6094831339081304,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.2,0.604338490648094,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.3,0.6020321375857917,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.4,0.6001279395017944,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.5,0.5971875330537334,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.6,0.5931984385426827,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.7,0.5909498829230728,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.8,0.5881079632035371,Chronic kidney disease,ckd,ckd|CKD
+CKD,11.9,0.5864983914459334,Chronic kidney disease,ckd,ckd|CKD
+CKD,12,0.5801701243292388,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.1,0.5772931197136929,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.2,0.5761273012556688,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.3,0.5733780936218474,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.4,0.570911205981751,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.5,0.5664610821042219,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.6,0.5631854435134841,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.7,0.5614343560599916,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.8,0.559246223748467,Chronic kidney disease,ckd,ckd|CKD
+CKD,12.9,0.5572289374132415,Chronic kidney disease,ckd,ckd|CKD
+CKD,13,0.5532260696402667,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.1,0.5529434487857817,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.2,0.5495269435566426,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.3,0.5480045018095483,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.4,0.5467931076643379,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.5,0.5428027810093125,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.6,0.5411222284658708,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.7,0.5393565352531663,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.8,0.5363411502650287,Chronic kidney disease,ckd,ckd|CKD
+CKD,13.9,0.5353511086447474,Chronic kidney disease,ckd,ckd|CKD
+CKD,14,0.5288172638232203,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.1,0.5258267044975427,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.2,0.5237797144253029,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.3,0.5233953264237605,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.4,0.5218835478875848,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.5,0.5183968654053367,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.6,0.5171358410024516,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.7,0.5154781938313907,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.8,0.5129560131314606,Chronic kidney disease,ckd,ckd|CKD
+CKD,14.9,0.5112881899930507,Chronic kidney disease,ckd,ckd|CKD
+CKD,15,0.506857021382549,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.1,0.505503415164627,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.2,0.5039322280486737,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.3,0.5011355858473207,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.4,0.49798094997557296,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.5,0.4960218761926533,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.6,0.4954628202142538,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.7,0.49407177860194224,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.8,0.49302195876418814,Chronic kidney disease,ckd,ckd|CKD
+CKD,15.9,0.4912242925058294,Chronic kidney disease,ckd,ckd|CKD
+CKD,16,0.4892623499317545,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.1,0.4887363313737212,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.2,0.4871324992698948,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.3,0.4864049116095255,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.400000000000002,0.48491691667412584,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.5,0.4819395044417942,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.6,0.4790159479991116,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.7,0.4777810964253097,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.8,0.4771717977670439,Chronic kidney disease,ckd,ckd|CKD
+CKD,16.900000000000002,0.47550931943532665,Chronic kidney disease,ckd,ckd|CKD
+CKD,17,0.47228470554828433,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.1,0.47141651306133026,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.2,0.46950065877646063,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.3,0.4685196701630598,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.400000000000002,0.4677921685547456,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.5,0.46225848164856254,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.6,0.46225848164856254,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.7,0.4620595624302751,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.8,0.4620595624302751,Chronic kidney disease,ckd,ckd|CKD
+CKD,17.900000000000002,0.46065362092660433,Chronic kidney disease,ckd,ckd|CKD
+CKD,18,0.46000521043523407,Chronic kidney disease,ckd,ckd|CKD
+no CKD,0,0.999956277104274,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.1,0.9998264748841292,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.2,0.999339192705398,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.30000000000000004,0.9990387533918852,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.4,0.998775876535124,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.5,0.9979986535247632,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.6000000000000001,0.997470885113542,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.7000000000000001,0.9970379224043162,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.8,0.996653789706554,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,0.9,0.996298742192892,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1,0.9956627026319668,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.1,0.9952633205750624,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.2000000000000002,0.994793027944598,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.3,0.9944209018360014,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.4,0.994061204279351,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.5,0.993518225302848,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.6,0.993019193633932,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.7000000000000002,0.9926732211971788,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.8,0.9922599210506976,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,1.9,0.991734724509237,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2,0.990646065886017,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.1,0.9903536722816916,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.2,0.98992498447426,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.3000000000000003,0.989560378740102,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.4000000000000004,0.9891504424133036,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.5,0.9880390984982508,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.6,0.987662912898534,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.7,0.9872593861519716,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.8000000000000003,0.986524280005952,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,2.9000000000000004,0.9858351753206336,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3,0.984828807606376,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.1,0.9843966756578892,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.2,0.9838402942524724,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.3000000000000003,0.9833098500123604,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.4000000000000004,0.9829529436664572,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.5,0.9817446001530018,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.6,0.98132374021671,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.7,0.980845747004622,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.8,0.980332373655116,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,3.9,0.9798391165284208,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4,0.9788555744556756,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.1000000000000005,0.978294724910186,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.2,0.9777307110777356,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.3,0.977041652206248,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.4,0.9764317600165536,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.5,0.975365478339744,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.6000000000000005,0.9747912654279364,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.7,0.9739923045466228,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.800000000000001,0.9733567054449054,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,4.9,0.9726928366215292,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5,0.971177878350203,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.1000000000000005,0.9705878296868607,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.2,0.9701468907182046,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.300000000000001,0.9694177385241848,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.4,0.9688724723228328,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.5,0.9677204256773292,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.6000000000000005,0.9669243708270427,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.7,0.9662720238917416,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.800000000000001,0.9656714437157689,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,5.9,0.9649839659045444,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6,0.9633634944825156,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.1000000000000005,0.9628140372825884,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.2,0.9622246732830952,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.300000000000001,0.9615986179470618,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.4,0.9608807548853546,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.5,0.959362902034066,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.6000000000000005,0.9586930103792664,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.7,0.9578822403265675,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.800000000000001,0.9572542837912236,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,6.9,0.9567139621273052,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7,0.9554878803026,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.1000000000000005,0.9547691145924814,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.2,0.95415169229006,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.300000000000001,0.9532551169634716,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.4,0.9525321733535757,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.5,0.9510767338617904,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.6,0.9501813036699364,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.7,0.9493000126840204,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.800000000000001,0.9485915862973514,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,7.9,0.9480258690186584,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8,0.946838351967604,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.1,0.9462419598728956,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.200000000000001,0.94574493374632,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.3,0.9450041519622392,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.4,0.9440294304821868,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.5,0.942753972076499,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.6,0.9422996903895546,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.700000000000001,0.941573771517927,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.8,0.9409898707302689,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,8.9,0.9402420060717552,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9,0.93887786095351,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.1,0.938125064151172,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.2,0.9373656176689148,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.3,0.9364407252594732,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.4,0.9358231019479196,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.5,0.9342050110252949,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.6,0.9334214970991414,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.7,0.9330131737786322,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.8,0.9325499290076512,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,9.9,0.9320612635792742,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10,0.9304571266315296,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.1,0.929481329824436,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.2,0.9286037995292694,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.3,0.92798892746084,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.4,0.9272461850022724,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.5,0.925777766584391,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.6,0.9250193542334252,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.7,0.92443532894575,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.8,0.9234326431552642,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,10.9,0.9229911494455788,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11,0.921520901355158,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.1,0.921086986689137,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.2,0.9206110230218112,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.3,0.9199117306726708,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.4,0.918936875101089,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.5,0.9175395797653054,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.6,0.9169470846390084,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.7,0.9161787251233768,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.8,0.915550576742576,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,11.9,0.9144496184800958,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12,0.9128913269336978,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.1,0.912217327582193,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.2,0.9114685461976048,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.3,0.9108038127022268,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.4,0.9099193988697888,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.5,0.9085763851804036,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.6,0.9078477786926232,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.7,0.907052729864044,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.8,0.9066170222700204,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,12.9,0.9054237900122104,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13,0.9034226611279066,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.1,0.9023947835606386,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.2,0.9011392555047648,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.3,0.9000814482759094,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.4,0.8992633174555839,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.5,0.8972361738999919,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.6,0.8967713766364338,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.7,0.8960814116331708,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.8,0.8954728553468104,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,13.9,0.8944011888609469,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14,0.8920498690070371,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.1,0.8909017811343674,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.2,0.8897794515443099,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.3,0.8887072799598207,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.4,0.888117683621274,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.5,0.8855333735695942,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.6,0.8845998097077992,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.7,0.8837092576057292,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.8,0.8823718610685818,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,14.9,0.8811290323957761,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15,0.8795705046754798,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.1,0.8783116613897641,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.2,0.8774005899652563,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.3,0.8760374776503255,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.4,0.8748182890230262,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.5,0.873436500707407,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.6,0.8719271721657941,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.7,0.870906046288561,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.8,0.8700804134028839,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,15.9,0.8683899042100411,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16,0.8666183435039129,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.1,0.8657503051615041,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.2,0.8650481921208991,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.3,0.8641612318510667,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.400000000000002,0.8629498716410313,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.5,0.8610369324306966,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.6,0.8601621990808598,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.7,0.8593464090538105,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.8,0.8572961053300824,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,16.900000000000002,0.8560060976800403,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17,0.853037218333852,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.1,0.8522578183067059,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.2,0.8512338774279133,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.3,0.8500064367254984,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.400000000000002,0.848588189078361,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.5,0.8468961742202342,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.6,0.8459781591996169,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.7,0.8451135062986544,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.8,0.8445898871112183,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,17.900000000000002,0.8418073870628772,Chronic kidney disease,ckd,ckd|no CKD
+no CKD,18,0.840210964735096,Chronic kidney disease,ckd,ckd|no CKD
+normal,0,0.9998318369044552,BMI category,bmi,bmi|normal
+normal,0.1,0.9996349849417138,BMI category,bmi,bmi|normal
+normal,0.2,0.9986089063038736,BMI category,bmi,bmi|normal
+normal,0.30000000000000004,0.9977544383612832,BMI category,bmi,bmi|normal
+normal,0.4,0.9968754012591412,BMI category,bmi,bmi|normal
+normal,0.5,0.995660964512732,BMI category,bmi,bmi|normal
+normal,0.6000000000000001,0.9948639483837226,BMI category,bmi,bmi|normal
+normal,0.7000000000000001,0.9941197389297304,BMI category,bmi,bmi|normal
+normal,0.8,0.9930740864103026,BMI category,bmi,bmi|normal
+normal,0.9,0.992433737601732,BMI category,bmi,bmi|normal
+normal,1,0.990679878325221,BMI category,bmi,bmi|normal
+normal,1.1,0.989979977622748,BMI category,bmi,bmi|normal
+normal,1.2000000000000002,0.9890666520098956,BMI category,bmi,bmi|normal
+normal,1.3,0.9884993083831152,BMI category,bmi,bmi|normal
+normal,1.4,0.9876016312828484,BMI category,bmi,bmi|normal
+normal,1.5,0.9862208487778164,BMI category,bmi,bmi|normal
+normal,1.6,0.9853811297233096,BMI category,bmi,bmi|normal
+normal,1.7000000000000002,0.9845446929280935,BMI category,bmi,bmi|normal
+normal,1.8,0.9840137685119614,BMI category,bmi,bmi|normal
+normal,1.9,0.983249501225408,BMI category,bmi,bmi|normal
+normal,2,0.9809590296974412,BMI category,bmi,bmi|normal
+normal,2.1,0.9800782954447927,BMI category,bmi,bmi|normal
+normal,2.2,0.9791606704806228,BMI category,bmi,bmi|normal
+normal,2.3000000000000003,0.9783922962244568,BMI category,bmi,bmi|normal
+normal,2.4000000000000004,0.97775994329998,BMI category,bmi,bmi|normal
+normal,2.5,0.9758404559275434,BMI category,bmi,bmi|normal
+normal,2.6,0.9753473334105116,BMI category,bmi,bmi|normal
+normal,2.7,0.9744167198646456,BMI category,bmi,bmi|normal
+normal,2.8000000000000003,0.973524533159204,BMI category,bmi,bmi|normal
+normal,2.9000000000000004,0.9726036300590308,BMI category,bmi,bmi|normal
+normal,3,0.9711143963089705,BMI category,bmi,bmi|normal
+normal,3.1,0.970695302090981,BMI category,bmi,bmi|normal
+normal,3.2,0.969767616151674,BMI category,bmi,bmi|normal
+normal,3.3000000000000003,0.9688573651239026,BMI category,bmi,bmi|normal
+normal,3.4000000000000004,0.9680123812370984,BMI category,bmi,bmi|normal
+normal,3.5,0.965973615284008,BMI category,bmi,bmi|normal
+normal,3.6,0.9652126798536914,BMI category,bmi,bmi|normal
+normal,3.7,0.9639926360180108,BMI category,bmi,bmi|normal
+normal,3.8,0.9629868929782758,BMI category,bmi,bmi|normal
+normal,3.9,0.96211934919051,BMI category,bmi,bmi|normal
+normal,4,0.9608341842313534,BMI category,bmi,bmi|normal
+normal,4.1000000000000005,0.9600284111566164,BMI category,bmi,bmi|normal
+normal,4.2,0.959527166876902,BMI category,bmi,bmi|normal
+normal,4.3,0.9581205834776853,BMI category,bmi,bmi|normal
+normal,4.4,0.9569283567031148,BMI category,bmi,bmi|normal
+normal,4.5,0.9550751733057078,BMI category,bmi,bmi|normal
+normal,4.6000000000000005,0.9540758040235394,BMI category,bmi,bmi|normal
+normal,4.7,0.9533448090403912,BMI category,bmi,bmi|normal
+normal,4.800000000000001,0.9525405418445432,BMI category,bmi,bmi|normal
+normal,4.9,0.9511269908306074,BMI category,bmi,bmi|normal
+normal,5,0.949500349471622,BMI category,bmi,bmi|normal
+normal,5.1000000000000005,0.9484201254674456,BMI category,bmi,bmi|normal
+normal,5.2,0.947374634318112,BMI category,bmi,bmi|normal
+normal,5.300000000000001,0.9463987307207,BMI category,bmi,bmi|normal
+normal,5.4,0.9456502970388292,BMI category,bmi,bmi|normal
+normal,5.5,0.9441167735746152,BMI category,bmi,bmi|normal
+normal,5.6000000000000005,0.9427896827630702,BMI category,bmi,bmi|normal
+normal,5.7,0.9420517224856946,BMI category,bmi,bmi|normal
+normal,5.800000000000001,0.9410274390881912,BMI category,bmi,bmi|normal
+normal,5.9,0.9402539556065248,BMI category,bmi,bmi|normal
+normal,6,0.9390627948001314,BMI category,bmi,bmi|normal
+normal,6.1000000000000005,0.93830508580654,BMI category,bmi,bmi|normal
+normal,6.2,0.93731093899899,BMI category,bmi,bmi|normal
+normal,6.300000000000001,0.9366608852525362,BMI category,bmi,bmi|normal
+normal,6.4,0.9350346679318128,BMI category,bmi,bmi|normal
+normal,6.5,0.933224238689253,BMI category,bmi,bmi|normal
+normal,6.6000000000000005,0.9321001695415888,BMI category,bmi,bmi|normal
+normal,6.7,0.9312270353316664,BMI category,bmi,bmi|normal
+normal,6.800000000000001,0.9306165467728692,BMI category,bmi,bmi|normal
+normal,6.9,0.930204647553607,BMI category,bmi,bmi|normal
+normal,7,0.92881362673726,BMI category,bmi,bmi|normal
+normal,7.1000000000000005,0.9277679734923748,BMI category,bmi,bmi|normal
+normal,7.2,0.926871369260683,BMI category,bmi,bmi|normal
+normal,7.300000000000001,0.9257902906954144,BMI category,bmi,bmi|normal
+normal,7.4,0.9249532522819742,BMI category,bmi,bmi|normal
+normal,7.5,0.922660902309451,BMI category,bmi,bmi|normal
+normal,7.6,0.9215775806438312,BMI category,bmi,bmi|normal
+normal,7.7,0.9208097362384404,BMI category,bmi,bmi|normal
+normal,7.800000000000001,0.9200135097289388,BMI category,bmi,bmi|normal
+normal,7.9,0.9196145092241228,BMI category,bmi,bmi|normal
+normal,8,0.9185075783513088,BMI category,bmi,bmi|normal
+normal,8.1,0.9178031570100592,BMI category,bmi,bmi|normal
+normal,8.200000000000001,0.9170885306319676,BMI category,bmi,bmi|normal
+normal,8.3,0.9159187402524892,BMI category,bmi,bmi|normal
+normal,8.4,0.9153288975350377,BMI category,bmi,bmi|normal
+normal,8.5,0.9134820470486168,BMI category,bmi,bmi|normal
+normal,8.6,0.9129913363278396,BMI category,bmi,bmi|normal
+normal,8.700000000000001,0.9125029990260412,BMI category,bmi,bmi|normal
+normal,8.8,0.912008813741222,BMI category,bmi,bmi|normal
+normal,8.9,0.9111691820761983,BMI category,bmi,bmi|normal
+normal,9,0.909022560706628,BMI category,bmi,bmi|normal
+normal,9.1,0.9081433029539804,BMI category,bmi,bmi|normal
+normal,9.2,0.9068985238242904,BMI category,bmi,bmi|normal
+normal,9.3,0.9061173882438276,BMI category,bmi,bmi|normal
+normal,9.4,0.90490076906843675,BMI category,bmi,bmi|normal
+normal,9.5,0.9021378134332878,BMI category,bmi,bmi|normal
+normal,9.6,0.9010735071379647,BMI category,bmi,bmi|normal
+normal,9.7,0.9006801219402175,BMI category,bmi,bmi|normal
+normal,9.8,0.8995389165899097,BMI category,bmi,bmi|normal
+normal,9.9,0.8988055310299052,BMI category,bmi,bmi|normal
+normal,10,0.8968978391949766,BMI category,bmi,bmi|normal
+normal,10.1,0.8958477606014905,BMI category,bmi,bmi|normal
+normal,10.2,0.8947298349980283,BMI category,bmi,bmi|normal
+normal,10.3,0.8939546670975498,BMI category,bmi,bmi|normal
+normal,10.4,0.8927010671595472,BMI category,bmi,bmi|normal
+normal,10.5,0.8908807131479208,BMI category,bmi,bmi|normal
+normal,10.6,0.8900933970011448,BMI category,bmi,bmi|normal
+normal,10.7,0.8892357708892336,BMI category,bmi,bmi|normal
+normal,10.8,0.8881791489567666,BMI category,bmi,bmi|normal
+normal,10.9,0.8872986312052166,BMI category,bmi,bmi|normal
+normal,11,0.8855612245041677,BMI category,bmi,bmi|normal
+normal,11.1,0.8853139163615191,BMI category,bmi,bmi|normal
+normal,11.2,0.8835903768683869,BMI category,bmi,bmi|normal
+normal,11.3,0.8823169918942879,BMI category,bmi,bmi|normal
+normal,11.4,0.8818718602810283,BMI category,bmi,bmi|normal
+normal,11.5,0.8809463820153898,BMI category,bmi,bmi|normal
+normal,11.6,0.8800171718748767,BMI category,bmi,bmi|normal
+normal,11.7,0.8796034791721443,BMI category,bmi,bmi|normal
+normal,11.8,0.8786071239765585,BMI category,bmi,bmi|normal
+normal,11.9,0.8773411858596862,BMI category,bmi,bmi|normal
+normal,12,0.8754337630501863,BMI category,bmi,bmi|normal
+normal,12.1,0.8745529687090066,BMI category,bmi,bmi|normal
+normal,12.2,0.87396926485399,BMI category,bmi,bmi|normal
+normal,12.3,0.8728202965231062,BMI category,bmi,bmi|normal
+normal,12.4,0.8717931002491862,BMI category,bmi,bmi|normal
+normal,12.5,0.8694852805356736,BMI category,bmi,bmi|normal
+normal,12.6,0.8683168149803987,BMI category,bmi,bmi|normal
+normal,12.7,0.867268103129283,BMI category,bmi,bmi|normal
+normal,12.8,0.8670677919096312,BMI category,bmi,bmi|normal
+normal,12.9,0.8663475948535019,BMI category,bmi,bmi|normal
+normal,13,0.8650917173048281,BMI category,bmi,bmi|normal
+normal,13.1,0.8647265920859947,BMI category,bmi,bmi|normal
+normal,13.2,0.8636528862263458,BMI category,bmi,bmi|normal
+normal,13.3,0.8630253271695946,BMI category,bmi,bmi|normal
+normal,13.4,0.8620332757700953,BMI category,bmi,bmi|normal
+normal,13.5,0.8605980826449191,BMI category,bmi,bmi|normal
+normal,13.6,0.860470545150182,BMI category,bmi,bmi|normal
+normal,13.7,0.859710950004753,BMI category,bmi,bmi|normal
+normal,13.8,0.8587956832864888,BMI category,bmi,bmi|normal
+normal,13.9,0.8574823253048387,BMI category,bmi,bmi|normal
+normal,14,0.8559831893075208,BMI category,bmi,bmi|normal
+normal,14.1,0.8553304434853798,BMI category,bmi,bmi|normal
+normal,14.2,0.8548290040647258,BMI category,bmi,bmi|normal
+normal,14.3,0.8536842727465417,BMI category,bmi,bmi|normal
+normal,14.4,0.8525837554365566,BMI category,bmi,bmi|normal
+normal,14.5,0.8497679409660585,BMI category,bmi,bmi|normal
+normal,14.6,0.8486187239943814,BMI category,bmi,bmi|normal
+normal,14.7,0.8476188236126423,BMI category,bmi,bmi|normal
+normal,14.8,0.8468957628669056,BMI category,bmi,bmi|normal
+normal,14.9,0.8453332809146737,BMI category,bmi,bmi|normal
+normal,15,0.8431461666780811,BMI category,bmi,bmi|normal
+normal,15.1,0.8426187872301147,BMI category,bmi,bmi|normal
+normal,15.2,0.8417781378829657,BMI category,bmi,bmi|normal
+normal,15.3,0.8403576847287295,BMI category,bmi,bmi|normal
+normal,15.4,0.8392511169283061,BMI category,bmi,bmi|normal
+normal,15.5,0.8389195690669289,BMI category,bmi,bmi|normal
+normal,15.6,0.8375561656408392,BMI category,bmi,bmi|normal
+normal,15.7,0.8365631316263497,BMI category,bmi,bmi|normal
+normal,15.8,0.8358766821989857,BMI category,bmi,bmi|normal
+normal,15.9,0.8351118695301935,BMI category,bmi,bmi|normal
+normal,16,0.8335104570385241,BMI category,bmi,bmi|normal
+normal,16.1,0.8322851723448911,BMI category,bmi,bmi|normal
+normal,16.2,0.8320300517659611,BMI category,bmi,bmi|normal
+normal,16.3,0.8314969586021688,BMI category,bmi,bmi|normal
+normal,16.400000000000002,0.8305975004277145,BMI category,bmi,bmi|normal
+normal,16.5,0.8285821673074226,BMI category,bmi,bmi|normal
+normal,16.6,0.8278677308625128,BMI category,bmi,bmi|normal
+normal,16.7,0.8276501745469167,BMI category,bmi,bmi|normal
+normal,16.8,0.8276501745469167,BMI category,bmi,bmi|normal
+normal,16.900000000000002,0.8269126651619627,BMI category,bmi,bmi|normal
+normal,17,0.8258921729672577,BMI category,bmi,bmi|normal
+normal,17.1,0.8252048888979053,BMI category,bmi,bmi|normal
+normal,17.2,0.8244618680276079,BMI category,bmi,bmi|normal
+normal,17.3,0.8244141299063857,BMI category,bmi,bmi|normal
+normal,17.400000000000002,0.8233391686461689,BMI category,bmi,bmi|normal
+normal,17.5,0.8211760968625427,BMI category,bmi,bmi|normal
+normal,17.6,0.8205756229528844,BMI category,bmi,bmi|normal
+normal,17.7,0.8190632808730128,BMI category,bmi,bmi|normal
+normal,17.8,0.8190330182337913,BMI category,bmi,bmi|normal
+normal,17.900000000000002,0.8169540730069051,BMI category,bmi,bmi|normal
+normal,18,0.8157530408748368,BMI category,bmi,bmi|normal
+obese,0,0.9999525162590944,BMI category,bmi,bmi|obese
+obese,0.1,0.9997682909939164,BMI category,bmi,bmi|obese
+obese,0.2,0.9988191967608012,BMI category,bmi,bmi|obese
+obese,0.30000000000000004,0.9984205145914392,BMI category,bmi,bmi|obese
+obese,0.4,0.998017096365128,BMI category,bmi,bmi|obese
+obese,0.5,0.9963600526294688,BMI category,bmi,bmi|obese
+obese,0.6000000000000001,0.9954736615447608,BMI category,bmi,bmi|obese
+obese,0.7000000000000001,0.9946974661559598,BMI category,bmi,bmi|obese
+obese,0.8,0.9942506677906128,BMI category,bmi,bmi|obese
+obese,0.9,0.9937847594176672,BMI category,bmi,bmi|obese
+obese,1,0.9920713913532324,BMI category,bmi,bmi|obese
+obese,1.1,0.9914281290382853,BMI category,bmi,bmi|obese
+obese,1.2000000000000002,0.9908015183505524,BMI category,bmi,bmi|obese
+obese,1.3,0.9902550618580424,BMI category,bmi,bmi|obese
+obese,1.4,0.9894837776712776,BMI category,bmi,bmi|obese
+obese,1.5,0.9882277568836972,BMI category,bmi,bmi|obese
+obese,1.6,0.987348391927002,BMI category,bmi,bmi|obese
+obese,1.7000000000000002,0.986586863134004,BMI category,bmi,bmi|obese
+obese,1.8,0.9862528856968346,BMI category,bmi,bmi|obese
+obese,1.9,0.9852775420335056,BMI category,bmi,bmi|obese
+obese,2,0.983413887362425,BMI category,bmi,bmi|obese
+obese,2.1,0.982594472985976,BMI category,bmi,bmi|obese
+obese,2.2,0.9817698831270518,BMI category,bmi,bmi|obese
+obese,2.3000000000000003,0.9808150523322748,BMI category,bmi,bmi|obese
+obese,2.4000000000000004,0.980356793713696,BMI category,bmi,bmi|obese
+obese,2.5,0.9781154880185168,BMI category,bmi,bmi|obese
+obese,2.6,0.9775432425675809,BMI category,bmi,bmi|obese
+obese,2.7,0.976866829453684,BMI category,bmi,bmi|obese
+obese,2.8000000000000003,0.9758992069972736,BMI category,bmi,bmi|obese
+obese,2.9000000000000004,0.974820656257442,BMI category,bmi,bmi|obese
+obese,3,0.9732711386632836,BMI category,bmi,bmi|obese
+obese,3.1,0.9726128002769574,BMI category,bmi,bmi|obese
+obese,3.2,0.9717095359620642,BMI category,bmi,bmi|obese
+obese,3.3000000000000003,0.9710942144423826,BMI category,bmi,bmi|obese
+obese,3.4000000000000004,0.9701707141378134,BMI category,bmi,bmi|obese
+obese,3.5,0.9678801687104642,BMI category,bmi,bmi|obese
+obese,3.6,0.9671726944007268,BMI category,bmi,bmi|obese
+obese,3.7,0.966323069252116,BMI category,bmi,bmi|obese
+obese,3.8,0.9655162399755636,BMI category,bmi,bmi|obese
+obese,3.9,0.9647359929059748,BMI category,bmi,bmi|obese
+obese,4,0.9628439976002396,BMI category,bmi,bmi|obese
+obese,4.1000000000000005,0.9622922962561562,BMI category,bmi,bmi|obese
+obese,4.2,0.9616567229378932,BMI category,bmi,bmi|obese
+obese,4.3,0.9603190439270212,BMI category,bmi,bmi|obese
+obese,4.4,0.9597930710451664,BMI category,bmi,bmi|obese
+obese,4.5,0.957970883142636,BMI category,bmi,bmi|obese
+obese,4.6000000000000005,0.9570280350552204,BMI category,bmi,bmi|obese
+obese,4.7,0.9556000186716376,BMI category,bmi,bmi|obese
+obese,4.800000000000001,0.9545222970670894,BMI category,bmi,bmi|obese
+obese,4.9,0.9535705309900472,BMI category,bmi,bmi|obese
+obese,5,0.951208475938222,BMI category,bmi,bmi|obese
+obese,5.1000000000000005,0.950028371562718,BMI category,bmi,bmi|obese
+obese,5.2,0.9494675039433318,BMI category,bmi,bmi|obese
+obese,5.300000000000001,0.9484878411946864,BMI category,bmi,bmi|obese
+obese,5.4,0.9476343269788792,BMI category,bmi,bmi|obese
+obese,5.5,0.9457749096403026,BMI category,bmi,bmi|obese
+obese,5.6000000000000005,0.9447860461567024,BMI category,bmi,bmi|obese
+obese,5.7,0.9437688866541744,BMI category,bmi,bmi|obese
+obese,5.800000000000001,0.9427827809701136,BMI category,bmi,bmi|obese
+obese,5.9,0.9417263956191356,BMI category,bmi,bmi|obese
+obese,6,0.939516899711518,BMI category,bmi,bmi|obese
+obese,6.1000000000000005,0.938499120742464,BMI category,bmi,bmi|obese
+obese,6.2,0.9371402541381182,BMI category,bmi,bmi|obese
+obese,6.300000000000001,0.9360923265441544,BMI category,bmi,bmi|obese
+obese,6.4,0.9349307122682082,BMI category,bmi,bmi|obese
+obese,6.5,0.93297931850747,BMI category,bmi,bmi|obese
+obese,6.6000000000000005,0.932161845054886,BMI category,bmi,bmi|obese
+obese,6.7,0.9312761815217294,BMI category,bmi,bmi|obese
+obese,6.800000000000001,0.930426399591016,BMI category,bmi,bmi|obese
+obese,6.9,0.9294691952005696,BMI category,bmi,bmi|obese
+obese,7,0.9274196858876564,BMI category,bmi,bmi|obese
+obese,7.1000000000000005,0.9267299254865148,BMI category,bmi,bmi|obese
+obese,7.2,0.9257388224211908,BMI category,bmi,bmi|obese
+obese,7.300000000000001,0.9247580083109944,BMI category,bmi,bmi|obese
+obese,7.4,0.9231282023904914,BMI category,bmi,bmi|obese
+obese,7.5,0.9212136588218864,BMI category,bmi,bmi|obese
+obese,7.6,0.9195160174132094,BMI category,bmi,bmi|obese
+obese,7.7,0.9180704571463572,BMI category,bmi,bmi|obese
+obese,7.800000000000001,0.9165621619949024,BMI category,bmi,bmi|obese
+obese,7.9,0.9158125926989156,BMI category,bmi,bmi|obese
+obese,8,0.913323943538254,BMI category,bmi,bmi|obese
+obese,8.1,0.912161337046088,BMI category,bmi,bmi|obese
+obese,8.200000000000001,0.9111695185511084,BMI category,bmi,bmi|obese
+obese,8.3,0.9098789753804302,BMI category,bmi,bmi|obese
+obese,8.4,0.9083642536446254,BMI category,bmi,bmi|obese
+obese,8.5,0.9065065892653456,BMI category,bmi,bmi|obese
+obese,8.6,0.9053827212935982,BMI category,bmi,bmi|obese
+obese,8.700000000000001,0.9040652235721266,BMI category,bmi,bmi|obese
+obese,8.8,0.9027949592713984,BMI category,bmi,bmi|obese
+obese,8.9,0.9016983083657528,BMI category,bmi,bmi|obese
+obese,9,0.8997917377338824,BMI category,bmi,bmi|obese
+obese,9.1,0.8987087564726489,BMI category,bmi,bmi|obese
+obese,9.2,0.8978691633690059,BMI category,bmi,bmi|obese
+obese,9.3,0.8974151880057842,BMI category,bmi,bmi|obese
+obese,9.4,0.8969981671311652,BMI category,bmi,bmi|obese
+obese,9.5,0.8953997763100427,BMI category,bmi,bmi|obese
+obese,9.6,0.8945867386278783,BMI category,bmi,bmi|obese
+obese,9.7,0.8938451185166287,BMI category,bmi,bmi|obese
+obese,9.8,0.8930510927673725,BMI category,bmi,bmi|obese
+obese,9.9,0.8919109902821449,BMI category,bmi,bmi|obese
+obese,10,0.8898019276214049,BMI category,bmi,bmi|obese
+obese,10.1,0.888191734395087,BMI category,bmi,bmi|obese
+obese,10.2,0.8872396256965561,BMI category,bmi,bmi|obese
+obese,10.3,0.8864104798354042,BMI category,bmi,bmi|obese
+obese,10.4,0.8856357968810201,BMI category,bmi,bmi|obese
+obese,10.5,0.8830177033875926,BMI category,bmi,bmi|obese
+obese,10.6,0.8819487082003241,BMI category,bmi,bmi|obese
+obese,10.7,0.8811447668527336,BMI category,bmi,bmi|obese
+obese,10.8,0.8803783830303271,BMI category,bmi,bmi|obese
+obese,10.9,0.8793756324298247,BMI category,bmi,bmi|obese
+obese,11,0.8777622909491823,BMI category,bmi,bmi|obese
+obese,11.1,0.8768644225927623,BMI category,bmi,bmi|obese
+obese,11.2,0.8758219657561197,BMI category,bmi,bmi|obese
+obese,11.3,0.87514869001303075,BMI category,bmi,bmi|obese
+obese,11.4,0.8735790872172573,BMI category,bmi,bmi|obese
+obese,11.5,0.8714192886319343,BMI category,bmi,bmi|obese
+obese,11.6,0.8703790262982629,BMI category,bmi,bmi|obese
+obese,11.7,0.8687170126193837,BMI category,bmi,bmi|obese
+obese,11.8,0.8679416008295867,BMI category,bmi,bmi|obese
+obese,11.9,0.8666573680562284,BMI category,bmi,bmi|obese
+obese,12,0.8640859269746349,BMI category,bmi,bmi|obese
+obese,12.1,0.8634980284149084,BMI category,bmi,bmi|obese
+obese,12.2,0.8626315994595739,BMI category,bmi,bmi|obese
+obese,12.3,0.861357984784635,BMI category,bmi,bmi|obese
+obese,12.4,0.8602845439291261,BMI category,bmi,bmi|obese
+obese,12.5,0.8584520618957039,BMI category,bmi,bmi|obese
+obese,12.6,0.857213806558295,BMI category,bmi,bmi|obese
+obese,12.7,0.8559143903315228,BMI category,bmi,bmi|obese
+obese,12.8,0.855047474493278,BMI category,bmi,bmi|obese
+obese,12.9,0.8537517118348855,BMI category,bmi,bmi|obese
+obese,13,0.8508079721531965,BMI category,bmi,bmi|obese
+obese,13.1,0.849540462701139,BMI category,bmi,bmi|obese
+obese,13.2,0.8480847001925086,BMI category,bmi,bmi|obese
+obese,13.3,0.8460769913805252,BMI category,bmi,bmi|obese
+obese,13.4,0.8452734165245372,BMI category,bmi,bmi|obese
+obese,13.5,0.8420569181721179,BMI category,bmi,bmi|obese
+obese,13.6,0.8408924540153169,BMI category,bmi,bmi|obese
+obese,13.7,0.8398098590080388,BMI category,bmi,bmi|obese
+obese,13.8,0.8391655316824079,BMI category,bmi,bmi|obese
+obese,13.9,0.8380784808024992,BMI category,bmi,bmi|obese
+obese,14,0.8345356687342775,BMI category,bmi,bmi|obese
+obese,14.1,0.8329710231497449,BMI category,bmi,bmi|obese
+obese,14.2,0.8313640372145908,BMI category,bmi,bmi|obese
+obese,14.3,0.830504834091259,BMI category,bmi,bmi|obese
+obese,14.4,0.830399306546466,BMI category,bmi,bmi|obese
+obese,14.5,0.8278337711390176,BMI category,bmi,bmi|obese
+obese,14.6,0.8270166188531286,BMI category,bmi,bmi|obese
+obese,14.7,0.8267309498702181,BMI category,bmi,bmi|obese
+obese,14.8,0.8244694829059871,BMI category,bmi,bmi|obese
+obese,14.9,0.8236567307305575,BMI category,bmi,bmi|obese
+obese,15,0.8217887480511633,BMI category,bmi,bmi|obese
+obese,15.1,0.8206225261986821,BMI category,bmi,bmi|obese
+obese,15.2,0.8186437883714729,BMI category,bmi,bmi|obese
+obese,15.3,0.8165498212386091,BMI category,bmi,bmi|obese
+obese,15.4,0.81453235347259,BMI category,bmi,bmi|obese
+obese,15.5,0.8122540588308178,BMI category,bmi,bmi|obese
+obese,15.6,0.8120821152876033,BMI category,bmi,bmi|obese
+obese,15.7,0.8110207531652731,BMI category,bmi,bmi|obese
+obese,15.8,0.8102092471634341,BMI category,bmi,bmi|obese
+obese,15.9,0.8083836073082963,BMI category,bmi,bmi|obese
+obese,16,0.804904096972418,BMI category,bmi,bmi|obese
+obese,16.1,0.8043293019012974,BMI category,bmi,bmi|obese
+obese,16.2,0.8035324365283347,BMI category,bmi,bmi|obese
+obese,16.3,0.8021663555934472,BMI category,bmi,bmi|obese
+obese,16.400000000000002,0.8014505841841146,BMI category,bmi,bmi|obese
+obese,16.5,0.7995016358715337,BMI category,bmi,bmi|obese
+obese,16.6,0.7977063506268922,BMI category,bmi,bmi|obese
+obese,16.7,0.7966747012107095,BMI category,bmi,bmi|obese
+obese,16.8,0.7931867922877138,BMI category,bmi,bmi|obese
+obese,16.900000000000002,0.7915075854216578,BMI category,bmi,bmi|obese
+obese,17,0.7859788779227448,BMI category,bmi,bmi|obese
+obese,17.1,0.7851668882368668,BMI category,bmi,bmi|obese
+obese,17.2,0.783565442882506,BMI category,bmi,bmi|obese
+obese,17.3,0.7823606298772694,BMI category,bmi,bmi|obese
+obese,17.400000000000002,0.7802929103303691,BMI category,bmi,bmi|obese
+obese,17.5,0.7771197942082443,BMI category,bmi,bmi|obese
+obese,17.6,0.7762036284171895,BMI category,bmi,bmi|obese
+obese,17.7,0.7762036284171895,BMI category,bmi,bmi|obese
+obese,17.8,0.7750957566970104,BMI category,bmi,bmi|obese
+obese,17.900000000000002,0.7732104024066271,BMI category,bmi,bmi|obese
+obese,18,0.7696799524421873,BMI category,bmi,bmi|obese
+overweight,0,0.9999485612586978,BMI category,bmi,bmi|overweight
+overweight,0.1,0.999584216517025,BMI category,bmi,bmi|overweight
+overweight,0.2,0.9990733463818992,BMI category,bmi,bmi|overweight
+overweight,0.30000000000000004,0.9985970799657674,BMI category,bmi,bmi|overweight
+overweight,0.4,0.9981817354376602,BMI category,bmi,bmi|overweight
+overweight,0.5,0.9971933966202542,BMI category,bmi,bmi|overweight
+overweight,0.6000000000000001,0.9962440425426056,BMI category,bmi,bmi|overweight
+overweight,0.7000000000000001,0.9957112579545626,BMI category,bmi,bmi|overweight
+overweight,0.8,0.9948803485934412,BMI category,bmi,bmi|overweight
+overweight,0.9,0.994391969803062,BMI category,bmi,bmi|overweight
+overweight,1,0.9936061913521486,BMI category,bmi,bmi|overweight
+overweight,1.1,0.9929682701066006,BMI category,bmi,bmi|overweight
+overweight,1.2000000000000002,0.99225482676044785,BMI category,bmi,bmi|overweight
+overweight,1.3,0.991379120401538,BMI category,bmi,bmi|overweight
+overweight,1.4,0.9907346109257368,BMI category,bmi,bmi|overweight
+overweight,1.5,0.9897850319230256,BMI category,bmi,bmi|overweight
+overweight,1.6,0.989027932709412,BMI category,bmi,bmi|overweight
+overweight,1.7000000000000002,0.9885755035948736,BMI category,bmi,bmi|overweight
+overweight,1.8,0.9877370168729248,BMI category,bmi,bmi|overweight
+overweight,1.9,0.9870767475149468,BMI category,bmi,bmi|overweight
+overweight,2,0.9857430198137213,BMI category,bmi,bmi|overweight
+overweight,2.1,0.9851735023240622,BMI category,bmi,bmi|overweight
+overweight,2.2,0.9844804888991632,BMI category,bmi,bmi|overweight
+overweight,2.3000000000000003,0.9836132320027856,BMI category,bmi,bmi|overweight
+overweight,2.4000000000000004,0.9827162295801608,BMI category,bmi,bmi|overweight
+overweight,2.5,0.9812217493468284,BMI category,bmi,bmi|overweight
+overweight,2.6,0.9804832710995812,BMI category,bmi,bmi|overweight
+overweight,2.7,0.9796124203768664,BMI category,bmi,bmi|overweight
+overweight,2.8000000000000003,0.9782242755317996,BMI category,bmi,bmi|overweight
+overweight,2.9000000000000004,0.9773289307436756,BMI category,bmi,bmi|overweight
+overweight,3,0.9756719995353738,BMI category,bmi,bmi|overweight
+overweight,3.1,0.9750531432990656,BMI category,bmi,bmi|overweight
+overweight,3.2,0.9739679921991656,BMI category,bmi,bmi|overweight
+overweight,3.3000000000000003,0.9733074397573426,BMI category,bmi,bmi|overweight
+overweight,3.4000000000000004,0.9725592855271016,BMI category,bmi,bmi|overweight
+overweight,3.5,0.97103368456521,BMI category,bmi,bmi|overweight
+overweight,3.6,0.9700521391309256,BMI category,bmi,bmi|overweight
+overweight,3.7,0.9696671402334712,BMI category,bmi,bmi|overweight
+overweight,3.8,0.9691096998641784,BMI category,bmi,bmi|overweight
+overweight,3.9,0.9683672153559642,BMI category,bmi,bmi|overweight
+overweight,4,0.966940576706058,BMI category,bmi,bmi|overweight
+overweight,4.1000000000000005,0.9660541201120354,BMI category,bmi,bmi|overweight
+overweight,4.2,0.9651652002652018,BMI category,bmi,bmi|overweight
+overweight,4.3,0.9644010928556216,BMI category,bmi,bmi|overweight
+overweight,4.4,0.9632230256835488,BMI category,bmi,bmi|overweight
+overweight,4.5,0.9613823410347124,BMI category,bmi,bmi|overweight
+overweight,4.6000000000000005,0.9608053243888642,BMI category,bmi,bmi|overweight
+overweight,4.7,0.9596172021099414,BMI category,bmi,bmi|overweight
+overweight,4.800000000000001,0.9589035195232136,BMI category,bmi,bmi|overweight
+overweight,4.9,0.9581254888273067,BMI category,bmi,bmi|overweight
+overweight,5,0.9554350376418538,BMI category,bmi,bmi|overweight
+overweight,5.1000000000000005,0.9545348185106124,BMI category,bmi,bmi|overweight
+overweight,5.2,0.9540093269371264,BMI category,bmi,bmi|overweight
+overweight,5.300000000000001,0.9529275679515832,BMI category,bmi,bmi|overweight
+overweight,5.4,0.9522522465949552,BMI category,bmi,bmi|overweight
+overweight,5.5,0.9498275485346626,BMI category,bmi,bmi|overweight
+overweight,5.6000000000000005,0.9487996961411672,BMI category,bmi,bmi|overweight
+overweight,5.7,0.9473815598123042,BMI category,bmi,bmi|overweight
+overweight,5.800000000000001,0.9468341911165892,BMI category,bmi,bmi|overweight
+overweight,5.9,0.9458733417044284,BMI category,bmi,bmi|overweight
+overweight,6,0.9428704478082784,BMI category,bmi,bmi|overweight
+overweight,6.1000000000000005,0.9421201997824526,BMI category,bmi,bmi|overweight
+overweight,6.2,0.9408668435547342,BMI category,bmi,bmi|overweight
+overweight,6.300000000000001,0.9399733493546328,BMI category,bmi,bmi|overweight
+overweight,6.4,0.9389620071625115,BMI category,bmi,bmi|overweight
+overweight,6.5,0.9362184661639312,BMI category,bmi,bmi|overweight
+overweight,6.6000000000000005,0.935053493069923,BMI category,bmi,bmi|overweight
+overweight,6.7,0.9331253415286284,BMI category,bmi,bmi|overweight
+overweight,6.800000000000001,0.9320674394458486,BMI category,bmi,bmi|overweight
+overweight,6.9,0.93101861463,BMI category,bmi,bmi|overweight
+overweight,7,0.928493374731696,BMI category,bmi,bmi|overweight
+overweight,7.1000000000000005,0.9273182777354826,BMI category,bmi,bmi|overweight
+overweight,7.2,0.9264881338702646,BMI category,bmi,bmi|overweight
+overweight,7.300000000000001,0.9250160862171044,BMI category,bmi,bmi|overweight
+overweight,7.4,0.9246130244641796,BMI category,bmi,bmi|overweight
+overweight,7.5,0.9223295941739976,BMI category,bmi,bmi|overweight
+overweight,7.6,0.9210492060106744,BMI category,bmi,bmi|overweight
+overweight,7.7,0.919944500860191,BMI category,bmi,bmi|overweight
+overweight,7.800000000000001,0.9191602726631568,BMI category,bmi,bmi|overweight
+overweight,7.9,0.9178652049418566,BMI category,bmi,bmi|overweight
+overweight,8,0.9160641407152113,BMI category,bmi,bmi|overweight
+overweight,8.1,0.9153855728580174,BMI category,bmi,bmi|overweight
+overweight,8.200000000000001,0.9146808217905552,BMI category,bmi,bmi|overweight
+overweight,8.3,0.9140799645032164,BMI category,bmi,bmi|overweight
+overweight,8.4,0.9126970615459616,BMI category,bmi,bmi|overweight
+overweight,8.5,0.9112605370326106,BMI category,bmi,bmi|overweight
+overweight,8.6,0.9103893255622232,BMI category,bmi,bmi|overweight
+overweight,8.700000000000001,0.9094864716592544,BMI category,bmi,bmi|overweight
+overweight,8.8,0.9086537480766734,BMI category,bmi,bmi|overweight
+overweight,8.9,0.9077147504253404,BMI category,bmi,bmi|overweight
+overweight,9,0.9057755657533252,BMI category,bmi,bmi|overweight
+overweight,9.1,0.9048210508470396,BMI category,bmi,bmi|overweight
+overweight,9.2,0.903805792677547,BMI category,bmi,bmi|overweight
+overweight,9.3,0.9022320789378384,BMI category,bmi,bmi|overweight
+overweight,9.4,0.9013919108176128,BMI category,bmi,bmi|overweight
+overweight,9.5,0.8993221692078699,BMI category,bmi,bmi|overweight
+overweight,9.6,0.8979567210520737,BMI category,bmi,bmi|overweight
+overweight,9.7,0.8965279885054609,BMI category,bmi,bmi|overweight
+overweight,9.8,0.8957848906136651,BMI category,bmi,bmi|overweight
+overweight,9.9,0.8953332102482752,BMI category,bmi,bmi|overweight
+overweight,10,0.8930038490482904,BMI category,bmi,bmi|overweight
+overweight,10.1,0.892016807074694,BMI category,bmi,bmi|overweight
+overweight,10.2,0.8903640653242534,BMI category,bmi,bmi|overweight
+overweight,10.3,0.8895206191618391,BMI category,bmi,bmi|overweight
+overweight,10.4,0.8881120431077574,BMI category,bmi,bmi|overweight
+overweight,10.5,0.8867521182150184,BMI category,bmi,bmi|overweight
+overweight,10.6,0.8856775150518771,BMI category,bmi,bmi|overweight
+overweight,10.7,0.8841694235344837,BMI category,bmi,bmi|overweight
+overweight,10.8,0.8828420703433453,BMI category,bmi,bmi|overweight
+overweight,10.9,0.882091069991657,BMI category,bmi,bmi|overweight
+overweight,11,0.8800160352619166,BMI category,bmi,bmi|overweight
+overweight,11.1,0.879526123934633,BMI category,bmi,bmi|overweight
+overweight,11.2,0.8789507099039423,BMI category,bmi,bmi|overweight
+overweight,11.3,0.8782132754850527,BMI category,bmi,bmi|overweight
+overweight,11.4,0.877135061052109,BMI category,bmi,bmi|overweight
+overweight,11.5,0.8756539014055477,BMI category,bmi,bmi|overweight
+overweight,11.6,0.8744171651201041,BMI category,bmi,bmi|overweight
+overweight,11.7,0.8735563636032021,BMI category,bmi,bmi|overweight
+overweight,11.8,0.8725010494552188,BMI category,bmi,bmi|overweight
+overweight,11.9,0.8714663981672984,BMI category,bmi,bmi|overweight
+overweight,12,0.8692211502810641,BMI category,bmi,bmi|overweight
+overweight,12.1,0.8677594935220849,BMI category,bmi,bmi|overweight
+overweight,12.2,0.8667605175434366,BMI category,bmi,bmi|overweight
+overweight,12.3,0.8662876356301674,BMI category,bmi,bmi|overweight
+overweight,12.4,0.8650436332602187,BMI category,bmi,bmi|overweight
+overweight,12.5,0.8637775091485643,BMI category,bmi,bmi|overweight
+overweight,12.6,0.8629320721158142,BMI category,bmi,bmi|overweight
+overweight,12.7,0.862432675747001,BMI category,bmi,bmi|overweight
+overweight,12.8,0.8614769419503131,BMI category,bmi,bmi|overweight
+overweight,12.9,0.85954836625432,BMI category,bmi,bmi|overweight
+overweight,13,0.8572909640387804,BMI category,bmi,bmi|overweight
+overweight,13.1,0.8560907538334431,BMI category,bmi,bmi|overweight
+overweight,13.2,0.8544346642363442,BMI category,bmi,bmi|overweight
+overweight,13.3,0.8536108563026945,BMI category,bmi,bmi|overweight
+overweight,13.4,0.8527458526910898,BMI category,bmi,bmi|overweight
+overweight,13.5,0.8508809898637826,BMI category,bmi,bmi|overweight
+overweight,13.6,0.8502331061580499,BMI category,bmi,bmi|overweight
+overweight,13.7,0.849589257432453,BMI category,bmi,bmi|overweight
+overweight,13.8,0.8483479971211183,BMI category,bmi,bmi|overweight
+overweight,13.9,0.8474937202588265,BMI category,bmi,bmi|overweight
+overweight,14,0.8440186108934155,BMI category,bmi,bmi|overweight
+overweight,14.1,0.8420121099698034,BMI category,bmi,bmi|overweight
+overweight,14.2,0.840321269744159,BMI category,bmi,bmi|overweight
+overweight,14.3,0.8393307881950913,BMI category,bmi,bmi|overweight
+overweight,14.4,0.838405649447242,BMI category,bmi,bmi|overweight
+overweight,14.5,0.8355364583761111,BMI category,bmi,bmi|overweight
+overweight,14.6,0.8345271404916007,BMI category,bmi,bmi|overweight
+overweight,14.7,0.8330565231389871,BMI category,bmi,bmi|overweight
+overweight,14.8,0.831423026508133,BMI category,bmi,bmi|overweight
+overweight,14.9,0.8298701884637085,BMI category,bmi,bmi|overweight
+overweight,15,0.8279919603274811,BMI category,bmi,bmi|overweight
+overweight,15.1,0.8258519254835949,BMI category,bmi,bmi|overweight
+overweight,15.2,0.8255171539534247,BMI category,bmi,bmi|overweight
+overweight,15.3,0.8242310756911966,BMI category,bmi,bmi|overweight
+overweight,15.4,0.8228078353735877,BMI category,bmi,bmi|overweight
+overweight,15.5,0.8209453885935121,BMI category,bmi,bmi|overweight
+overweight,15.6,0.8183848882895322,BMI category,bmi,bmi|overweight
+overweight,15.7,0.8172946689467331,BMI category,bmi,bmi|overweight
+overweight,15.8,0.8161922284689054,BMI category,bmi,bmi|overweight
+overweight,15.9,0.8136074144415043,BMI category,bmi,bmi|overweight
+overweight,16,0.8129966400885473,BMI category,bmi,bmi|overweight
+overweight,16.1,0.81229383442649,BMI category,bmi,bmi|overweight
+overweight,16.2,0.8108666229288358,BMI category,bmi,bmi|overweight
+overweight,16.3,0.8100713801375399,BMI category,bmi,bmi|overweight
+overweight,16.400000000000002,0.8079635661347003,BMI category,bmi,bmi|overweight
+overweight,16.5,0.8056612751466752,BMI category,bmi,bmi|overweight
+overweight,16.6,0.8046058587878666,BMI category,bmi,bmi|overweight
+overweight,16.7,0.8031945023964859,BMI category,bmi,bmi|overweight
+overweight,16.8,0.8010845493073266,BMI category,bmi,bmi|overweight
+overweight,16.900000000000002,0.7993825612213249,BMI category,bmi,bmi|overweight
+overweight,17,0.7966389470324945,BMI category,bmi,bmi|overweight
+overweight,17.1,0.7957174549232706,BMI category,bmi,bmi|overweight
+overweight,17.2,0.7945112794286135,BMI category,bmi,bmi|overweight
+overweight,17.3,0.7921469285941818,BMI category,bmi,bmi|overweight
+overweight,17.400000000000002,0.791147107912011,BMI category,bmi,bmi|overweight
+overweight,17.5,0.7895511143688255,BMI category,bmi,bmi|overweight
+overweight,17.6,0.7886387202479812,BMI category,bmi,bmi|overweight
+overweight,17.7,0.7878439518876141,BMI category,bmi,bmi|overweight
+overweight,17.8,0.7875451278810679,BMI category,bmi,bmi|overweight
+overweight,17.900000000000002,0.7836832189088476,BMI category,bmi,bmi|overweight
+overweight,18,0.7836832189088476,BMI category,bmi,bmi|overweight
+underweight,0,0.9995361457005912,BMI category,bmi,bmi|underweight
+underweight,0.1,0.99804088234551,BMI category,bmi,bmi|underweight
+underweight,0.2,0.997948950364504,BMI category,bmi,bmi|underweight
+underweight,0.30000000000000004,0.9974515372292976,BMI category,bmi,bmi|underweight
+underweight,0.4,0.9967945503587274,BMI category,bmi,bmi|underweight
+underweight,0.5,0.9936333583743188,BMI category,bmi,bmi|underweight
+underweight,0.6000000000000001,0.9931083095229188,BMI category,bmi,bmi|underweight
+underweight,0.7000000000000001,0.9893464887361983,BMI category,bmi,bmi|underweight
+underweight,0.8,0.988019929996032,BMI category,bmi,bmi|underweight
+underweight,0.9,0.9868095694117028,BMI category,bmi,bmi|underweight
+underweight,1,0.985367974456442,BMI category,bmi,bmi|underweight
+underweight,1.1,0.9852678162538866,BMI category,bmi,bmi|underweight
+underweight,1.2000000000000002,0.9840571315490568,BMI category,bmi,bmi|underweight
+underweight,1.3,0.9840571315490568,BMI category,bmi,bmi|underweight
+underweight,1.4,0.981762870607666,BMI category,bmi,bmi|underweight
+underweight,1.5,0.9797861314329832,BMI category,bmi,bmi|underweight
+underweight,1.6,0.9771165187011288,BMI category,bmi,bmi|underweight
+underweight,1.7000000000000002,0.9769823676433396,BMI category,bmi,bmi|underweight
+underweight,1.8,0.9766817539605492,BMI category,bmi,bmi|underweight
+underweight,1.9,0.9747230785120232,BMI category,bmi,bmi|underweight
+underweight,2,0.9703712905583692,BMI category,bmi,bmi|underweight
+underweight,2.1,0.9660019933559588,BMI category,bmi,bmi|underweight
+underweight,2.2,0.9617677940385184,BMI category,bmi,bmi|underweight
+underweight,2.3000000000000003,0.9617452518808552,BMI category,bmi,bmi|underweight
+underweight,2.4000000000000004,0.9610576048660368,BMI category,bmi,bmi|underweight
+underweight,2.5,0.9593497617402852,BMI category,bmi,bmi|underweight
+underweight,2.6,0.9570329308716564,BMI category,bmi,bmi|underweight
+underweight,2.7,0.9566370982761768,BMI category,bmi,bmi|underweight
+underweight,2.8000000000000003,0.955050678058772,BMI category,bmi,bmi|underweight
+underweight,2.9000000000000004,0.9548990801473602,BMI category,bmi,bmi|underweight
+underweight,3,0.948872466632348,BMI category,bmi,bmi|underweight
+underweight,3.1,0.948872466632348,BMI category,bmi,bmi|underweight
+underweight,3.2,0.9485000323733168,BMI category,bmi,bmi|underweight
+underweight,3.3000000000000003,0.947406020346592,BMI category,bmi,bmi|underweight
+underweight,3.4000000000000004,0.9442467412189658,BMI category,bmi,bmi|underweight
+underweight,3.5,0.943036884949252,BMI category,bmi,bmi|underweight
+underweight,3.6,0.9424078112968572,BMI category,bmi,bmi|underweight
+underweight,3.7,0.9424078112968572,BMI category,bmi,bmi|underweight
+underweight,3.8,0.939524058781345,BMI category,bmi,bmi|underweight
+underweight,3.9,0.9352497478367768,BMI category,bmi,bmi|underweight
+underweight,4,0.9319550143912744,BMI category,bmi,bmi|underweight
+underweight,4.1000000000000005,0.9274598465395342,BMI category,bmi,bmi|underweight
+underweight,4.2,0.9251728086636214,BMI category,bmi,bmi|underweight
+underweight,4.3,0.9242538106483864,BMI category,bmi,bmi|underweight
+underweight,4.4,0.9234770487485698,BMI category,bmi,bmi|underweight
+underweight,4.5,0.922931108549581,BMI category,bmi,bmi|underweight
+underweight,4.6000000000000005,0.9213497345302528,BMI category,bmi,bmi|underweight
+underweight,4.7,0.9213497345302528,BMI category,bmi,bmi|underweight
+underweight,4.800000000000001,0.9212914281046636,BMI category,bmi,bmi|underweight
+underweight,4.9,0.9200093647945932,BMI category,bmi,bmi|underweight
+underweight,5,0.91583369149305,BMI category,bmi,bmi|underweight
+underweight,5.1000000000000005,0.914704311773068,BMI category,bmi,bmi|underweight
+underweight,5.2,0.9140151214432476,BMI category,bmi,bmi|underweight
+underweight,5.300000000000001,0.9115258501899136,BMI category,bmi,bmi|underweight
+underweight,5.4,0.9111410501020883,BMI category,bmi,bmi|underweight
+underweight,5.5,0.9104261975489484,BMI category,bmi,bmi|underweight
+underweight,5.6000000000000005,0.9070935236647384,BMI category,bmi,bmi|underweight
+underweight,5.7,0.9061444873965924,BMI category,bmi,bmi|underweight
+underweight,5.800000000000001,0.9041551041083002,BMI category,bmi,bmi|underweight
+underweight,5.9,0.89921667693403,BMI category,bmi,bmi|underweight
+underweight,6,0.8865967590795467,BMI category,bmi,bmi|underweight
+underweight,6.1000000000000005,0.8861414985181576,BMI category,bmi,bmi|underweight
+underweight,6.2,0.8848446739396082,BMI category,bmi,bmi|underweight
+underweight,6.300000000000001,0.8842484179790765,BMI category,bmi,bmi|underweight
+underweight,6.4,0.8840083039551637,BMI category,bmi,bmi|underweight
+underweight,6.5,0.8838634650552581,BMI category,bmi,bmi|underweight
+underweight,6.6000000000000005,0.8838634650552581,BMI category,bmi,bmi|underweight
+underweight,6.7,0.8833968683208653,BMI category,bmi,bmi|underweight
+underweight,6.800000000000001,0.8808115179381977,BMI category,bmi,bmi|underweight
+underweight,6.9,0.8756266240930919,BMI category,bmi,bmi|underweight
+underweight,7,0.8754893554003649,BMI category,bmi,bmi|underweight
+underweight,7.1000000000000005,0.8754893554003649,BMI category,bmi,bmi|underweight
+underweight,7.2,0.8749578659643218,BMI category,bmi,bmi|underweight
+underweight,7.300000000000001,0.8733117357566746,BMI category,bmi,bmi|underweight
+underweight,7.4,0.8708238783501142,BMI category,bmi,bmi|underweight
+underweight,7.5,0.8644043441192177,BMI category,bmi,bmi|underweight
+underweight,7.6,0.8644043441192177,BMI category,bmi,bmi|underweight
+underweight,7.7,0.8644043441192177,BMI category,bmi,bmi|underweight
+underweight,7.800000000000001,0.8644043441192177,BMI category,bmi,bmi|underweight
+underweight,7.9,0.8632225080129974,BMI category,bmi,bmi|underweight
+underweight,8,0.8606396793907806,BMI category,bmi,bmi|underweight
+underweight,8.1,0.8606396793907806,BMI category,bmi,bmi|underweight
+underweight,8.200000000000001,0.8592588770077463,BMI category,bmi,bmi|underweight
+underweight,8.3,0.8592588770077463,BMI category,bmi,bmi|underweight
+underweight,8.4,0.8592588770077463,BMI category,bmi,bmi|underweight
+underweight,8.5,0.8564865066624525,BMI category,bmi,bmi|underweight
+underweight,8.6,0.8563075170902688,BMI category,bmi,bmi|underweight
+underweight,8.700000000000001,0.8505805476021795,BMI category,bmi,bmi|underweight
+underweight,8.8,0.8505805476021795,BMI category,bmi,bmi|underweight
+underweight,8.9,0.8504617675564772,BMI category,bmi,bmi|underweight
+underweight,9,0.8503191242322874,BMI category,bmi,bmi|underweight
+underweight,9.1,0.8500060195083734,BMI category,bmi,bmi|underweight
+underweight,9.2,0.8431889393571167,BMI category,bmi,bmi|underweight
+underweight,9.3,0.8393764494253775,BMI category,bmi,bmi|underweight
+underweight,9.4,0.8388961380897996,BMI category,bmi,bmi|underweight
+underweight,9.5,0.8353502137993114,BMI category,bmi,bmi|underweight
+underweight,9.6,0.8332312667591731,BMI category,bmi,bmi|underweight
+underweight,9.7,0.8332312667591731,BMI category,bmi,bmi|underweight
+underweight,9.8,0.8331973690761937,BMI category,bmi,bmi|underweight
+underweight,9.9,0.8311148578659148,BMI category,bmi,bmi|underweight
+underweight,10,0.8300653377358913,BMI category,bmi,bmi|underweight
+underweight,10.1,0.8294122748493765,BMI category,bmi,bmi|underweight
+underweight,10.2,0.828208107619669,BMI category,bmi,bmi|underweight
+underweight,10.3,0.8234659130110075,BMI category,bmi,bmi|underweight
+underweight,10.4,0.8203931517196339,BMI category,bmi,bmi|underweight
+underweight,10.5,0.8149131555537766,BMI category,bmi,bmi|underweight
+underweight,10.6,0.8149131555537766,BMI category,bmi,bmi|underweight
+underweight,10.7,0.8148871515467394,BMI category,bmi,bmi|underweight
+underweight,10.8,0.8148871515467394,BMI category,bmi,bmi|underweight
+underweight,10.9,0.8144258428310817,BMI category,bmi,bmi|underweight
+underweight,11,0.8134341143482051,BMI category,bmi,bmi|underweight
+underweight,11.1,0.8121642345236475,BMI category,bmi,bmi|underweight
+underweight,11.2,0.8111704626560611,BMI category,bmi,bmi|underweight
+underweight,11.3,0.8090228524388704,BMI category,bmi,bmi|underweight
+underweight,11.4,0.8044738954541699,BMI category,bmi,bmi|underweight
+underweight,11.5,0.7985756178680828,BMI category,bmi,bmi|underweight
+underweight,11.6,0.798560807547105,BMI category,bmi,bmi|underweight
+underweight,11.7,0.7980251610515949,BMI category,bmi,bmi|underweight
+underweight,11.8,0.7980251610515949,BMI category,bmi,bmi|underweight
+underweight,11.9,0.7980251610515949,BMI category,bmi,bmi|underweight
+underweight,12,0.7980251610515949,BMI category,bmi,bmi|underweight
+underweight,12.1,0.797951308015926,BMI category,bmi,bmi|underweight
+underweight,12.2,0.797951308015926,BMI category,bmi,bmi|underweight
+underweight,12.3,0.79756603077100785,BMI category,bmi,bmi|underweight
+underweight,12.4,0.79756603077100785,BMI category,bmi,bmi|underweight
+underweight,12.5,0.79756603077100785,BMI category,bmi,bmi|underweight
+underweight,12.6,0.7971370179980232,BMI category,bmi,bmi|underweight
+underweight,12.7,0.7971370179980232,BMI category,bmi,bmi|underweight
+underweight,12.8,0.7970613619323945,BMI category,bmi,bmi|underweight
+underweight,12.9,0.7970613619323945,BMI category,bmi,bmi|underweight
+underweight,13,0.7888495716080353,BMI category,bmi,bmi|underweight
+underweight,13.1,0.7888495716080353,BMI category,bmi,bmi|underweight
+underweight,13.2,0.7802174408083437,BMI category,bmi,bmi|underweight
+underweight,13.3,0.7802174408083437,BMI category,bmi,bmi|underweight
+underweight,13.4,0.7802174408083437,BMI category,bmi,bmi|underweight
+underweight,13.5,0.7715395534315688,BMI category,bmi,bmi|underweight
+underweight,13.6,0.7715395534315688,BMI category,bmi,bmi|underweight
+underweight,13.7,0.7702284434735973,BMI category,bmi,bmi|underweight
+underweight,13.8,0.7702284434735973,BMI category,bmi,bmi|underweight
+underweight,13.9,0.7702284434735973,BMI category,bmi,bmi|underweight
+underweight,14,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.1,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.2,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.3,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.4,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.5,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.6,0.7645680296883861,BMI category,bmi,bmi|underweight
+underweight,14.7,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,14.8,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,14.9,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,15,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,15.1,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,15.2,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,15.3,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,15.4,0.7609757162435105,BMI category,bmi,bmi|underweight
+underweight,15.5,0.7606228592489748,BMI category,bmi,bmi|underweight
+underweight,15.6,0.7606228592489748,BMI category,bmi,bmi|underweight
+underweight,15.7,0.7585008799017703,BMI category,bmi,bmi|underweight
+underweight,15.8,0.7585008799017703,BMI category,bmi,bmi|underweight
+underweight,15.9,0.7585008799017703,BMI category,bmi,bmi|underweight
+underweight,16,0.7585008799017703,BMI category,bmi,bmi|underweight
+underweight,16.1,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.2,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.3,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.400000000000002,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.5,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.6,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.7,0.7584662062332057,BMI category,bmi,bmi|underweight
+underweight,16.8,0.7546445059831998,BMI category,bmi,bmi|underweight
+underweight,16.900000000000002,0.7546445059831998,BMI category,bmi,bmi|underweight
+underweight,17,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.1,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.2,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.3,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.400000000000002,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.5,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.6,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.7,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.8,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,17.900000000000002,0.7516828626462979,BMI category,bmi,bmi|underweight
+underweight,18,0.7516828626462979,BMI category,bmi,bmi|underweight

@@ -1,0 +1,15 @@
+term,chisq,df,p
+"ns(age, knots = c(35, 50, 65), Boundary.knots = c(20, 85))",93.8,4,<0.001
+sex,5.2,1,0.022
+race_eth,4.6,4,0.327
+education,2.8,2,0.241
+pir,2.1,1,0.143
+smoking,7.8,2,0.020
+cycle,26.2,9,0.002
+glycemic,7,2,0.030
+hypertension,23.1,1,<0.001
+ckd,4.8,1,0.028
+bmi_cat,12.8,3,0.005
+cvd_history,0.1,1,0.756
+cancer,1.4,1,0.244
+GLOBAL,187.6,32,<0.001

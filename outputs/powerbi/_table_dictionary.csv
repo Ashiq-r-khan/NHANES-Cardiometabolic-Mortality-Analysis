@@ -1,0 +1,43 @@
+table,rows,columns,role,in_relationships,source
+dim_cycle,10,"cycle, cycle_num, start_year, end_year",Dimension,TRUE,Script 09
+dim_condition,11,"condition, condition_label, domain, condition_sort",Dimension,TRUE,Script 09
+dim_group_level,28,"level_key, group_key, group_label, level, level_label, group_sort, level_sort",Dimension,TRUE,Script 09
+dim_cause,4,"cause, cause_description, cause_sort",Dimension,TRUE,Script 09
+dim_risk_tier,5,"risk_tier, lower_pct, upper_pct, tier_sort",Dimension,TRUE,Script 09
+dim_prediction_model,5,"model, model_description, model_type, model_sort",Dimension,TRUE,Script 09
+dim_exposure,6,"exposure, exposure_sort",Dimension,TRUE,Script 09
+fact_participants,50819,"SEQN, cycle, weight, age, age_group, sex, race_eth, education, smoking, level_key, hypertension, ckd, bmi_cat, cvd_history, cancer, followup_years, died, cause_of_death, risk_10y_pct, risk_tier",Fact,TRUE,Scripts 05-09
+stat_kpis,10,"kpi_sort, metric, value",Statistical result,FALSE,Scripts 05-09
+stat_design,1,"participants, strata, psu_in_cohort, psu_in_full_nhanes, min_participants_per_psu, design_df, weighted_population_millions",Statistical result,FALSE,Script 05
+stat_prevalence_overall,33,"condition, estimate, prevalence_pct, lcl, ucl, n_available",Statistical result,TRUE,Script 05
+stat_prevalence_by_cycle,220,"condition, cycle, type, prevalence_pct, lcl, ucl",Statistical result,TRUE,Script 05
+stat_prevalence_by_group,143,"condition, group, level, type, prevalence_pct, lcl, ucl, group_key, level_key",Statistical result,TRUE,Script 05
+stat_prevalence_trend_tests,11,"condition, or_per_cycle, lcl, ucl, p_trend",Statistical result,TRUE,Script 05
+stat_table1,29,"characteristic, normal, prediabetes, diabetes, overall, row_sort",Statistical result,FALSE,Script 05
+stat_death_rates,30,"group, level, type, rate_per_1000_py, lcl, ucl, group_key, level_key",Statistical result,TRUE,Script 06
+stat_km_curves,2172,"level, time, surv, group, group_key, level_key",Statistical result,TRUE,Script 06
+stat_survival_at_years,12,"group, level, survival_5y_pct, survival_10y_pct, survival_15y_pct, group_key, level_key",Statistical result,TRUE,Script 06
+stat_hazard_ratios,27,"exposure, level, adjustment, hr, lcl, ucl, p, adjustment_short",Statistical result,TRUE,Script 06
+stat_hr_full_model,28,"term, hr, lcl, ucl, p",Statistical result,FALSE,Script 06
+stat_spline_curves,1200,"variable, label, x, x_plot, hr, lcl, ucl",Statistical result,FALSE,Script 06
+stat_hr_sensitivity,49,"analysis, term, hr, lcl, ucl",Statistical result,FALSE,Script 06
+stat_cause_mix,24,"group, level, cause, pct, lcl, ucl, group_key, level_key",Statistical result,TRUE,Script 07
+stat_cause_detail,40,"glycemic_status, underlying_cause, pct, level_key",Statistical result,TRUE,Script 07
+stat_cause_specific_rates,24,"group, level, cause, rate_per_1000_py, lcl, ucl, group_key, level_key",Statistical result,TRUE,Script 07
+stat_cumulative_incidence,1752,"level, time, cause, cif, naive, group, group_key, level_key",Statistical result,TRUE,Script 07
+stat_cumulative_incidence_15y,24,"group, level, cause, aalen_johansen_pct, naive_1_minus_km_pct, overestimate_pct, group_key, level_key",Statistical result,TRUE,Script 07
+stat_cause_specific_hr,40,"cause, term, hr, lcl, ucl, p",Statistical result,TRUE,Script 07
+stat_finegray,32,"cause, term, hr, lcl, ucl, hr_type",Statistical result,TRUE,Script 07
+stat_dm_death_certificate,4,"glycemic_status, pct_with_diabetes_on_certificate, lcl, ucl, level_key",Statistical result,TRUE,Script 07
+stat_paf,12,"risk_factor, hr, hr_lcl, hr_ucl, pct_deaths_exposed, paf_pct, paf_lcl, paf_ucl, cause",Statistical result,TRUE,Script 08
+stat_ipw_hr,6,"exposure, hr, lcl, ucl, hr_type",Statistical result,TRUE,Script 08
+stat_ipw_survival,1086,"status, time, surv, exposure",Statistical result,TRUE,Script 08
+stat_ipw_10y_risk,3,"exposure, risk_unexposed_10y_pct, risk_exposed_10y_pct, risk_difference_pct_points",Statistical result,TRUE,Script 08
+stat_e_values,8,"estimate, hr, lcl, ucl, e_value_point, e_value_ci",Statistical result,FALSE,Script 08
+stat_covariate_balance,78,"weighting, covariate, smd, exposure",Statistical result,TRUE,Script 08
+model_performance,3,"model, c_index, c_index_range, brier, scaled_brier, observed_risk_pct, mean_predicted_risk_pct, oe_ratio, calibration_slope",Model result,TRUE,Script 09
+model_calibration,30,"decile, predicted_pct, observed_pct, n, model",Model result,TRUE,Script 09
+model_decision_curve,245,"model, threshold_pct, net_benefit",Model result,TRUE,Script 09
+model_risk_tiers,5,"risk_tier, n, population_pct, mean_age, mean_predicted_pct, observed_10y_pct, diabetes_pct, hypertension_pct, ckd_pct, current_smoker_pct, deaths",Model result,TRUE,Script 09
+model_whatif_profiles,11520,"age, sex, race_eth, smoking, glycemic_status, hypertension, ckd, bmi_cat, cvd_history, cancer, risk_10y_pct",Model result,FALSE,Script 09
+model_coefficients,60,"model, term, beta, hr",Model result,TRUE,Script 09

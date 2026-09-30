@@ -1,0 +1,12 @@
+condition,or_per_cycle,lcl,ucl,p_trend
+diabetes,1.056,1.041,1.071,<0.001
+dm_dx,1.064,1.048,1.081,<0.001
+dm_undiagnosed,1.017,0.994,1.04,0.153
+prediabetes,1.089,1.074,1.104,<0.001
+hypertension,1.005,0.988,1.021,0.575
+hypertension_acc,0.984,0.97,0.998,0.030
+obesity,1.062,1.047,1.078,<0.001
+ckd,0.987,0.974,1,0.050
+albuminuria,0.987,0.973,1.001,0.076
+current_smoker,0.954,0.939,0.969,<0.001
+cvd_history,0.981,0.965,0.998,0.031

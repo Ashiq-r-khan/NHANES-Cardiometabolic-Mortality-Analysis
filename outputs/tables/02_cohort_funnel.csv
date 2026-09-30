@@ -1,0 +1,7 @@
+step,n_remaining,n_excluded
+All NHANES participants 1999-2018,101316,0
+Age 20+,55081,46235
+MEC examined,52398,2683
+Eligible for mortality linkage,52287,111
+Not pregnant,50819,1468
+Follow-up time and status available,50819,0

@@ -1,0 +1,4 @@
+exposure,exposed_pct_weighted,ps_min,ps_max,sw_mean,sw_p1,sw_p99,sw_max
+Diabetes,12.4,0.001,0.987,1.005,0.2,2.49,69.4
+Hypertension,32,0.006,0.991,1.008,0.35,5.44,40.3
+Chronic kidney disease,13.6,0.021,0.935,1.003,0.18,2.96,8.5

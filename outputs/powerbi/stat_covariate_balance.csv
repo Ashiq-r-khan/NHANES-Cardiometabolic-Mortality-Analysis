@@ -1,0 +1,79 @@
+weighting,covariate,smd,exposure
+before,age,0.8806843612442912,Diabetes
+before,bmi,0.6609991496806781,Diabetes
+before,sexfemale,-0.05944950623788527,Diabetes
+before,race_ethNon-Hispanic Black,0.14704547933282186,Diabetes
+before,race_ethMexican American,0.044870042258816543,Diabetes
+before,race_ethOther Hispanic,0.0279959587773735,Diabetes
+before,race_ethOther/Multiracial,0.0639878687585525,Diabetes
+before,educationHS/GED,0.03520960369987985,Diabetes
+before,education>HS,-0.227672980119116,Diabetes
+before,pir,-0.19893052203202605,Diabetes
+before,smokingformer,0.24169188248510537,Diabetes
+before,smokingcurrent,-0.1393437801568923,Diabetes
+after,age,-0.00438766306858532,Diabetes
+after,bmi,0.00171188630717298,Diabetes
+after,sexfemale,0.00370436904957499,Diabetes
+after,race_ethNon-Hispanic Black,0.00169067604316964,Diabetes
+after,race_ethMexican American,-0.02492566054586888,Diabetes
+after,race_ethOther Hispanic,0.02941409868053384,Diabetes
+after,race_ethOther/Multiracial,0.00443203619377494,Diabetes
+after,educationHS/GED,-0.03477498698282798,Diabetes
+after,education>HS,0.0148437938690418,Diabetes
+after,pir,-0.03129936774911902,Diabetes
+after,smokingformer,0.0072491128339524,Diabetes
+after,smokingcurrent,0.07738895086038637,Diabetes
+before,age,1.2546118409751157,Hypertension
+before,bmi,0.4459183629970558,Hypertension
+before,sexfemale,0.02725869145456604,Hypertension
+before,race_ethNon-Hispanic Black,0.14413253233599038,Hypertension
+before,race_ethMexican American,-0.16805998110276776,Hypertension
+before,race_ethOther Hispanic,-0.08947196136668503,Hypertension
+before,race_ethOther/Multiracial,-0.05193062902838063,Hypertension
+before,educationHS/GED,0.08803954221247201,Hypertension
+before,education>HS,-0.18183187519761876,Hypertension
+before,pir,-0.03936219767474899,Hypertension
+before,smokingformer,0.2693289084589524,Hypertension
+before,smokingcurrent,-0.16887993727269823,Hypertension
+before,diabetes,0.5416234045601651,Hypertension
+after,age,0.00453651157028633,Hypertension
+after,bmi,0.03910135802534475,Hypertension
+after,sexfemale,-0.11449629940753218,Hypertension
+after,race_ethNon-Hispanic Black,-0.00134301975236319,Hypertension
+after,race_ethMexican American,0.00127999984112402,Hypertension
+after,race_ethOther Hispanic,-0.01442141584501171,Hypertension
+after,race_ethOther/Multiracial,-0.00322634603666395,Hypertension
+after,educationHS/GED,-0.01084156618902124,Hypertension
+after,education>HS,0.01706000666659806,Hypertension
+after,pir,0.04140275806288298,Hypertension
+after,smokingformer,0.02196241179719826,Hypertension
+after,smokingcurrent,0.02763737180092648,Hypertension
+after,diabetes,-0.00591259466505982,Hypertension
+before,age,0.8947599465238574,Chronic kidney disease
+before,bmi,0.1800231844194217,Chronic kidney disease
+before,sexfemale,0.13852103609214503,Chronic kidney disease
+before,race_ethNon-Hispanic Black,0.12672476764371862,Chronic kidney disease
+before,race_ethMexican American,-0.04567629993111683,Chronic kidney disease
+before,race_ethOther Hispanic,-0.03339835134065061,Chronic kidney disease
+before,race_ethOther/Multiracial,-0.02098879497027586,Chronic kidney disease
+before,educationHS/GED,0.06373777421277502,Chronic kidney disease
+before,education>HS,-0.249188229862652,Chronic kidney disease
+before,pir,-0.27535380994386854,Chronic kidney disease
+before,smokingformer,0.18542354711783415,Chronic kidney disease
+before,smokingcurrent,-0.09765739144378864,Chronic kidney disease
+before,diabetes,0.5980811082996493,Chronic kidney disease
+before,hypertension,0.7904290105108025,Chronic kidney disease
+after,age,0.01854938321791823,Chronic kidney disease
+after,bmi,0.0096972545657924,Chronic kidney disease
+after,sexfemale,0.1061616827678002,Chronic kidney disease
+after,race_ethNon-Hispanic Black,-0.00832226575532657,Chronic kidney disease
+after,race_ethMexican American,0.00431276710533403,Chronic kidney disease
+after,race_ethOther Hispanic,0.00418035565804815,Chronic kidney disease
+after,race_ethOther/Multiracial,0.00389122367467571,Chronic kidney disease
+after,educationHS/GED,0.01134130223889856,Chronic kidney disease
+after,education>HS,-3.352963070316471e-4,Chronic kidney disease
+after,pir,-0.01315663738701709,Chronic kidney disease
+after,smokingformer,-0.01610859264262102,Chronic kidney disease
+after,smokingcurrent,-0.02513970991284588,Chronic kidney disease
+after,diabetes,0.02583810975709751,Chronic kidney disease
+after,hypertension,0.02009025747097777,Chronic kidney disease

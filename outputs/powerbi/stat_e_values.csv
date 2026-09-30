@@ -1,0 +1,9 @@
+estimate,hr,lcl,ucl,e_value_point,e_value_ci
+Diabetes (IPW marginal),1.83,1.58,2.13,2.41,2.08
+Hypertension (IPW marginal),1.17,1.07,1.28,1.48,1.28
+Chronic kidney disease (IPW marginal),1.59,1.47,1.72,2.1,1.93
+Current smoking (M3 conditional),2.27,2.09,2.46,2.91,2.71
+Diabetes (M3 conditional),1.44,1.34,1.55,1.9,1.75
+Hypertension (M3 conditional),1.22,1.14,1.31,1.56,1.42
+Chronic kidney disease (M3 conditional),1.59,1.5,1.68,2.1,1.98
+Underweight (M3 conditional),1.57,1.2,2.06,2.08,1.53

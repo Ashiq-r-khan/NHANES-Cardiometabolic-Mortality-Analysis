@@ -1,0 +1,29 @@
+,level,n,pct
+sex_lbl,female,25667,50.5
+sex_lbl,male,25152,49.5
+age_group,20-39,16519,32.5
+age_group,40-59,16505,32.5
+age_group,60-79,14098,27.7
+age_group,80+,3697,7.3
+race_eth_lbl,Non-Hispanic White,22358,44.0
+race_eth_lbl,Non-Hispanic Black,10799,21.2
+race_eth_lbl,Mexican American,8773,17.3
+race_eth_lbl,Other/Multiracial,4703,9.3
+race_eth_lbl,Other Hispanic,4186,8.2
+education_lbl,>HS,25048,49.3
+education_lbl,<HS,13898,27.3
+education_lbl,HS/GED,11792,23.2
+education_lbl,,81,0.2
+smoking,never,27395,53.9
+smoking,former,12592,24.8
+smoking,current,10781,21.2
+smoking,,51,0.1
+bmi_cat,obese,18117,35.7
+bmi_cat,overweight,16807,33.1
+bmi_cat,normal,14042,27.6
+bmi_cat,,1037,2.0
+bmi_cat,underweight,816,1.6
+glycemic_status,normal,24885,49.0
+glycemic_status,prediabetes,15175,29.9
+glycemic_status,diabetes,8575,16.9
+glycemic_status,,2184,4.3

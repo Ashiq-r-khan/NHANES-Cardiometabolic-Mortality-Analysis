@@ -1,0 +1,17 @@
+risk_rank,profile,participants,deaths,deaths_per_1000_py
+1,Diabetes + Hypertension + CKD,1092,573,78.71
+2,Hypertension + CKD,2067,1057,70.82
+3,Diabetes + CKD,320,126,52.31
+4,Diabetes + Hypertension + Obesity + CKD,1469,554,51.35
+5,Hypertension + Obesity + CKD,1173,407,42.33
+6,Diabetes + Obesity + CKD,330,96,38.82
+7,Diabetes + Hypertension,1187,315,32.85
+8,Hypertension,5197,1179,24.0
+9,CKD,1292,288,23.9
+10,Diabetes + Hypertension + Obesity,1789,318,21.63
+11,Diabetes,946,160,19.79
+12,Obesity + CKD,574,84,15.43
+13,Hypertension + Obesity,3775,523,14.56
+14,Diabetes + Obesity,958,115,14.01
+15,None of the four,17241,1090,6.04
+16,Obesity,6939,315,4.61

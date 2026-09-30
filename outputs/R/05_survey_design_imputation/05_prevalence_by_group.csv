@@ -1,0 +1,144 @@
+label,condition,group,level,type,prevalence_pct,lcl,ucl
+Diabetes (total),diabetes,age3,20-39,Age-specific,3.2,2.9,3.5
+Diabetes (total),diabetes,age3,40-59,Age-specific,12.7,12,13.4
+Diabetes (total),diabetes,age3,60+,Age-specific,25.2,24.3,26
+Diagnosed diabetes,dm_dx,age3,20-39,Age-specific,2.1,1.9,2.3
+Diagnosed diabetes,dm_dx,age3,40-59,Age-specific,9.4,8.8,10
+Diagnosed diabetes,dm_dx,age3,60+,Age-specific,20.3,19.5,21.1
+Undiagnosed diabetes,dm_undiagnosed,age3,20-39,Age-specific,1.1,0.9,1.3
+Undiagnosed diabetes,dm_undiagnosed,age3,40-59,Age-specific,3.3,3,3.7
+Undiagnosed diabetes,dm_undiagnosed,age3,60+,Age-specific,4.9,4.5,5.3
+Prediabetes,prediabetes,age3,20-39,Age-specific,18.4,17.5,19.2
+Prediabetes,prediabetes,age3,40-59,Age-specific,31.8,30.6,32.9
+Prediabetes,prediabetes,age3,60+,Age-specific,39.2,38.1,40.3
+Hypertension (140/90 or meds),hypertension,age3,20-39,Age-specific,8,7.5,8.6
+Hypertension (140/90 or meds),hypertension,age3,40-59,Age-specific,32.3,31.2,33.5
+Hypertension (140/90 or meds),hypertension,age3,60+,Age-specific,65.9,64.7,67
+Hypertension (130/80 or meds),hypertension_acc,age3,20-39,Age-specific,22.5,21.6,23.4
+Hypertension (130/80 or meds),hypertension_acc,age3,40-59,Age-specific,51.3,50.1,52.6
+Hypertension (130/80 or meds),hypertension_acc,age3,60+,Age-specific,76.6,75.4,77.7
+Obesity (BMI 30+),obesity,age3,20-39,Age-specific,31.3,30.2,32.5
+Obesity (BMI 30+),obesity,age3,40-59,Age-specific,38.6,37.4,39.8
+Obesity (BMI 30+),obesity,age3,60+,Age-specific,36.6,35.5,37.8
+Chronic kidney disease,ckd,age3,20-39,Age-specific,5.9,5.5,6.4
+Chronic kidney disease,ckd,age3,40-59,Age-specific,9.6,9,10.2
+Chronic kidney disease,ckd,age3,60+,Age-specific,30.7,29.7,31.6
+Albuminuria (ACR 30+),albuminuria,age3,20-39,Age-specific,5.9,5.4,6.3
+Albuminuria (ACR 30+),albuminuria,age3,40-59,Age-specific,8.3,7.8,8.8
+Albuminuria (ACR 30+),albuminuria,age3,60+,Age-specific,18.5,17.6,19.4
+Current smoking,current_smoker,age3,20-39,Age-specific,27,25.9,28.2
+Current smoking,current_smoker,age3,40-59,Age-specific,23.3,22.2,24.4
+Current smoking,current_smoker,age3,60+,Age-specific,11.5,10.9,12.2
+Self-reported CVD,cvd_history,age3,20-39,Age-specific,1.2,1,1.3
+Self-reported CVD,cvd_history,age3,40-59,Age-specific,6.3,5.7,6.8
+Self-reported CVD,cvd_history,age3,60+,Age-specific,23.9,23,24.9
+Diabetes (total),diabetes,sex,male,Age-standardized,12.9,12.4,13.5
+Diabetes (total),diabetes,sex,female,Age-standardized,10.9,10.4,11.4
+Diagnosed diabetes,dm_dx,sex,male,Age-standardized,9.6,9.1,10
+Diagnosed diabetes,dm_dx,sex,female,Age-standardized,8.6,8.1,9
+Undiagnosed diabetes,dm_undiagnosed,sex,male,Age-standardized,3.4,3.1,3.7
+Undiagnosed diabetes,dm_undiagnosed,sex,female,Age-standardized,2.3,2.1,2.5
+Prediabetes,prediabetes,sex,male,Age-standardized,31,30.1,32
+Prediabetes,prediabetes,sex,female,Age-standardized,25.2,24.5,25.9
+Hypertension (140/90 or meds),hypertension,sex,male,Age-standardized,31.1,30.2,32
+Hypertension (140/90 or meds),hypertension,sex,female,Age-standardized,29.6,29,30.3
+Hypertension (130/80 or meds),hypertension_acc,sex,male,Age-standardized,49.8,48.8,50.8
+Hypertension (130/80 or meds),hypertension_acc,sex,female,Age-standardized,41.5,40.7,42.3
+Obesity (BMI 30+),obesity,sex,male,Age-standardized,33.7,32.6,34.8
+Obesity (BMI 30+),obesity,sex,female,Age-standardized,36.7,35.8,37.7
+Chronic kidney disease,ckd,sex,male,Age-standardized,11.9,11.4,12.4
+Chronic kidney disease,ckd,sex,female,Age-standardized,14.1,13.6,14.6
+Albuminuria (ACR 30+),albuminuria,sex,male,Age-standardized,9.2,8.8,9.7
+Albuminuria (ACR 30+),albuminuria,sex,female,Age-standardized,10.2,9.7,10.7
+Current smoking,current_smoker,sex,male,Age-standardized,24.5,23.6,25.4
+Current smoking,current_smoker,sex,female,Age-standardized,19.7,18.9,20.6
+Self-reported CVD,cvd_history,sex,male,Age-standardized,9.6,9.2,10.1
+Self-reported CVD,cvd_history,sex,female,Age-standardized,7.3,6.8,7.7
+Diabetes (total),diabetes,race_eth,Non-Hispanic White,Age-standardized,9.8,9.3,10.2
+Diabetes (total),diabetes,race_eth,Non-Hispanic Black,Age-standardized,17.9,17.2,18.7
+Diabetes (total),diabetes,race_eth,Mexican American,Age-standardized,18.6,17.6,19.7
+Diabetes (total),diabetes,race_eth,Other Hispanic,Age-standardized,15.6,14.2,17
+Diabetes (total),diabetes,race_eth,Other/Multiracial,Age-standardized,16.2,14.9,17.6
+Diagnosed diabetes,dm_dx,race_eth,Non-Hispanic White,Age-standardized,7.5,7.1,7.9
+Diagnosed diabetes,dm_dx,race_eth,Non-Hispanic Black,Age-standardized,13.8,13.1,14.5
+Diagnosed diabetes,dm_dx,race_eth,Mexican American,Age-standardized,14.2,13.2,15.1
+Diagnosed diabetes,dm_dx,race_eth,Other Hispanic,Age-standardized,11.8,10.6,13
+Diagnosed diabetes,dm_dx,race_eth,Other/Multiracial,Age-standardized,12.6,11.4,13.8
+Undiagnosed diabetes,dm_undiagnosed,race_eth,Non-Hispanic White,Age-standardized,2.3,2,2.5
+Undiagnosed diabetes,dm_undiagnosed,race_eth,Non-Hispanic Black,Age-standardized,4.1,3.7,4.5
+Undiagnosed diabetes,dm_undiagnosed,race_eth,Mexican American,Age-standardized,4.5,4,4.9
+Undiagnosed diabetes,dm_undiagnosed,race_eth,Other Hispanic,Age-standardized,3.8,3.1,4.5
+Undiagnosed diabetes,dm_undiagnosed,race_eth,Other/Multiracial,Age-standardized,3.7,2.9,4.4
+Prediabetes,prediabetes,race_eth,Non-Hispanic White,Age-standardized,26.3,25.4,27.2
+Prediabetes,prediabetes,race_eth,Non-Hispanic Black,Age-standardized,31.5,30.5,32.5
+Prediabetes,prediabetes,race_eth,Mexican American,Age-standardized,31.2,29.9,32.5
+Prediabetes,prediabetes,race_eth,Other Hispanic,Age-standardized,30.4,28.6,32.2
+Prediabetes,prediabetes,race_eth,Other/Multiracial,Age-standardized,32.3,30.4,34.2
+Hypertension (140/90 or meds),hypertension,race_eth,Non-Hispanic White,Age-standardized,29.2,28.4,30
+Hypertension (140/90 or meds),hypertension,race_eth,Non-Hispanic Black,Age-standardized,42.4,41.4,43.4
+Hypertension (140/90 or meds),hypertension,race_eth,Mexican American,Age-standardized,27.3,26.3,28.4
+Hypertension (140/90 or meds),hypertension,race_eth,Other Hispanic,Age-standardized,28.9,27.2,30.6
+Hypertension (140/90 or meds),hypertension,race_eth,Other/Multiracial,Age-standardized,29.9,28.2,31.6
+Hypertension (130/80 or meds),hypertension_acc,race_eth,Non-Hispanic White,Age-standardized,44.6,43.6,45.5
+Hypertension (130/80 or meds),hypertension_acc,race_eth,Non-Hispanic Black,Age-standardized,57.3,56.3,58.3
+Hypertension (130/80 or meds),hypertension_acc,race_eth,Mexican American,Age-standardized,42.7,41.5,43.9
+Hypertension (130/80 or meds),hypertension_acc,race_eth,Other Hispanic,Age-standardized,42.6,40.9,44.3
+Hypertension (130/80 or meds),hypertension_acc,race_eth,Other/Multiracial,Age-standardized,45.9,44,47.8
+Obesity (BMI 30+),obesity,race_eth,Non-Hispanic White,Age-standardized,33.7,32.7,34.7
+Obesity (BMI 30+),obesity,race_eth,Non-Hispanic Black,Age-standardized,45.6,44.4,46.8
+Obesity (BMI 30+),obesity,race_eth,Mexican American,Age-standardized,41.8,40.2,43.3
+Obesity (BMI 30+),obesity,race_eth,Other Hispanic,Age-standardized,35.7,33.8,37.6
+Obesity (BMI 30+),obesity,race_eth,Other/Multiracial,Age-standardized,23.3,21.1,25.4
+Chronic kidney disease,ckd,race_eth,Non-Hispanic White,Age-standardized,11.8,11.3,12.3
+Chronic kidney disease,ckd,race_eth,Non-Hispanic Black,Age-standardized,19.1,18.3,19.8
+Chronic kidney disease,ckd,race_eth,Mexican American,Age-standardized,14.4,13.5,15.4
+Chronic kidney disease,ckd,race_eth,Other Hispanic,Age-standardized,13.7,12.5,14.9
+Chronic kidney disease,ckd,race_eth,Other/Multiracial,Age-standardized,13.4,12,14.9
+Albuminuria (ACR 30+),albuminuria,race_eth,Non-Hispanic White,Age-standardized,8.4,8,8.9
+Albuminuria (ACR 30+),albuminuria,race_eth,Non-Hispanic Black,Age-standardized,13.6,12.9,14.3
+Albuminuria (ACR 30+),albuminuria,race_eth,Mexican American,Age-standardized,13.1,12.2,13.9
+Albuminuria (ACR 30+),albuminuria,race_eth,Other Hispanic,Age-standardized,11.8,10.6,13
+Albuminuria (ACR 30+),albuminuria,race_eth,Other/Multiracial,Age-standardized,11.9,10.6,13.3
+Current smoking,current_smoker,race_eth,Non-Hispanic White,Age-standardized,23.3,22.2,24.3
+Current smoking,current_smoker,race_eth,Non-Hispanic Black,Age-standardized,25.2,23.9,26.4
+Current smoking,current_smoker,race_eth,Mexican American,Age-standardized,17.4,16.2,18.6
+Current smoking,current_smoker,race_eth,Other Hispanic,Age-standardized,18.3,15.9,20.7
+Current smoking,current_smoker,race_eth,Other/Multiracial,Age-standardized,18.9,16.8,21
+Self-reported CVD,cvd_history,race_eth,Non-Hispanic White,Age-standardized,8.3,7.9,8.7
+Self-reported CVD,cvd_history,race_eth,Non-Hispanic Black,Age-standardized,9.8,9.3,10.4
+Self-reported CVD,cvd_history,race_eth,Mexican American,Age-standardized,6.8,6.1,7.4
+Self-reported CVD,cvd_history,race_eth,Other Hispanic,Age-standardized,6.6,5.9,7.4
+Self-reported CVD,cvd_history,race_eth,Other/Multiracial,Age-standardized,8.6,7.4,9.8
+Diabetes (total),diabetes,education,<HS,Age-standardized,16.2,15.5,17
+Diabetes (total),diabetes,education,HS/GED,Age-standardized,12.2,11.4,12.9
+Diabetes (total),diabetes,education,>HS,Age-standardized,10.2,9.7,10.7
+Diagnosed diabetes,dm_dx,education,<HS,Age-standardized,12.2,11.5,12.9
+Diagnosed diabetes,dm_dx,education,HS/GED,Age-standardized,9.2,8.5,9.9
+Diagnosed diabetes,dm_dx,education,>HS,Age-standardized,7.9,7.4,8.3
+Undiagnosed diabetes,dm_undiagnosed,education,<HS,Age-standardized,4,3.7,4.4
+Undiagnosed diabetes,dm_undiagnosed,education,HS/GED,Age-standardized,3,2.7,3.3
+Undiagnosed diabetes,dm_undiagnosed,education,>HS,Age-standardized,2.4,2.1,2.6
+Prediabetes,prediabetes,education,<HS,Age-standardized,31.5,30.3,32.7
+Prediabetes,prediabetes,education,HS/GED,Age-standardized,29.5,28.4,30.6
+Prediabetes,prediabetes,education,>HS,Age-standardized,26.8,26,27.7
+Hypertension (140/90 or meds),hypertension,education,<HS,Age-standardized,33.5,32.6,34.5
+Hypertension (140/90 or meds),hypertension,education,HS/GED,Age-standardized,32.9,31.9,33.9
+Hypertension (140/90 or meds),hypertension,education,>HS,Age-standardized,28.4,27.6,29.2
+Hypertension (130/80 or meds),hypertension_acc,education,<HS,Age-standardized,48.4,47.2,49.6
+Hypertension (130/80 or meds),hypertension_acc,education,HS/GED,Age-standardized,48.9,47.7,50
+Hypertension (130/80 or meds),hypertension_acc,education,>HS,Age-standardized,43.6,42.6,44.5
+Obesity (BMI 30+),obesity,education,<HS,Age-standardized,36.3,35,37.5
+Obesity (BMI 30+),obesity,education,HS/GED,Age-standardized,38.5,37.2,39.7
+Obesity (BMI 30+),obesity,education,>HS,Age-standardized,33.7,32.6,34.7
+Chronic kidney disease,ckd,education,<HS,Age-standardized,17.2,16.5,17.9
+Chronic kidney disease,ckd,education,HS/GED,Age-standardized,13.8,13.1,14.6
+Chronic kidney disease,ckd,education,>HS,Age-standardized,11.2,10.7,11.7
+Albuminuria (ACR 30+),albuminuria,education,<HS,Age-standardized,13.5,12.8,14.2
+Albuminuria (ACR 30+),albuminuria,education,HS/GED,Age-standardized,10.3,9.6,11
+Albuminuria (ACR 30+),albuminuria,education,>HS,Age-standardized,8.2,7.7,8.6
+Current smoking,current_smoker,education,<HS,Age-standardized,33.6,32.1,35.1
+Current smoking,current_smoker,education,HS/GED,Age-standardized,29.5,28.4,30.6
+Current smoking,current_smoker,education,>HS,Age-standardized,15.9,15.2,16.6
+Self-reported CVD,cvd_history,education,<HS,Age-standardized,11.4,10.7,12.1
+Self-reported CVD,cvd_history,education,HS/GED,Age-standardized,9,8.4,9.6
+Self-reported CVD,cvd_history,education,>HS,Age-standardized,7,6.6,7.3
